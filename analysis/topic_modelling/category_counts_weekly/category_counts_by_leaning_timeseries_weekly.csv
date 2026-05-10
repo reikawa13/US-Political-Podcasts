@@ -1,0 +1,2519 @@
+date,political_leaning,thesis_category,count
+2023-01-02,Conservative,Border Enforcement & Policy,27
+2023-01-02,Conservative,Crime & Security Narrative,14
+2023-01-02,Conservative,Economic & Social Impact,19
+2023-01-02,Conservative,Humanitarian & Asylum System,43
+2023-01-02,Conservative,Identity & Assimilation,14
+2023-01-02,Conservative,International Refugee Context,8
+2023-01-02,Conservative,Partisan Politics & Elections,55
+2023-01-02,Conservative,Unmapped,75
+2023-01-02,Conservative,Viral Incidents & Culture War,12
+2023-01-02,Liberal,Border Enforcement & Policy,10
+2023-01-02,Liberal,Economic & Social Impact,1
+2023-01-02,Liberal,Humanitarian & Asylum System,5
+2023-01-02,Liberal,Identity & Assimilation,8
+2023-01-02,Liberal,International Refugee Context,1
+2023-01-02,Liberal,Partisan Politics & Elections,20
+2023-01-02,Liberal,Unmapped,27
+2023-01-02,Liberal,Viral Incidents & Culture War,2
+2023-01-02,Moderate,Border Enforcement & Policy,7
+2023-01-02,Moderate,Humanitarian & Asylum System,1
+2023-01-02,Moderate,Identity & Assimilation,4
+2023-01-02,Moderate,International Refugee Context,4
+2023-01-02,Moderate,Partisan Politics & Elections,12
+2023-01-02,Moderate,Unmapped,19
+2023-01-09,Conservative,Border Enforcement & Policy,27
+2023-01-09,Conservative,Crime & Security Narrative,23
+2023-01-09,Conservative,Economic & Social Impact,4
+2023-01-09,Conservative,Humanitarian & Asylum System,10
+2023-01-09,Conservative,Identity & Assimilation,22
+2023-01-09,Conservative,International Refugee Context,4
+2023-01-09,Conservative,Partisan Politics & Elections,62
+2023-01-09,Conservative,Unmapped,85
+2023-01-09,Conservative,Viral Incidents & Culture War,18
+2023-01-09,Liberal,Border Enforcement & Policy,7
+2023-01-09,Liberal,Crime & Security Narrative,3
+2023-01-09,Liberal,Economic & Social Impact,4
+2023-01-09,Liberal,Humanitarian & Asylum System,6
+2023-01-09,Liberal,Identity & Assimilation,14
+2023-01-09,Liberal,International Refugee Context,5
+2023-01-09,Liberal,Partisan Politics & Elections,32
+2023-01-09,Liberal,Unmapped,35
+2023-01-09,Moderate,Border Enforcement & Policy,30
+2023-01-09,Moderate,Crime & Security Narrative,2
+2023-01-09,Moderate,Economic & Social Impact,5
+2023-01-09,Moderate,Humanitarian & Asylum System,32
+2023-01-09,Moderate,Identity & Assimilation,6
+2023-01-09,Moderate,International Refugee Context,12
+2023-01-09,Moderate,Partisan Politics & Elections,51
+2023-01-09,Moderate,Unmapped,53
+2023-01-09,Moderate,Viral Incidents & Culture War,1
+2023-01-16,Conservative,Border Enforcement & Policy,15
+2023-01-16,Conservative,Crime & Security Narrative,7
+2023-01-16,Conservative,Economic & Social Impact,13
+2023-01-16,Conservative,Humanitarian & Asylum System,4
+2023-01-16,Conservative,Identity & Assimilation,10
+2023-01-16,Conservative,International Refugee Context,7
+2023-01-16,Conservative,Partisan Politics & Elections,20
+2023-01-16,Conservative,Unmapped,87
+2023-01-16,Conservative,Viral Incidents & Culture War,18
+2023-01-16,Liberal,Border Enforcement & Policy,1
+2023-01-16,Liberal,Economic & Social Impact,1
+2023-01-16,Liberal,Humanitarian & Asylum System,1
+2023-01-16,Liberal,Identity & Assimilation,7
+2023-01-16,Liberal,International Refugee Context,1
+2023-01-16,Liberal,Unmapped,9
+2023-01-16,Moderate,Border Enforcement & Policy,1
+2023-01-16,Moderate,Crime & Security Narrative,4
+2023-01-16,Moderate,Economic & Social Impact,5
+2023-01-16,Moderate,Humanitarian & Asylum System,3
+2023-01-16,Moderate,Identity & Assimilation,2
+2023-01-16,Moderate,International Refugee Context,2
+2023-01-16,Moderate,Partisan Politics & Elections,6
+2023-01-16,Moderate,Unmapped,15
+2023-01-23,Conservative,Border Enforcement & Policy,5
+2023-01-23,Conservative,Crime & Security Narrative,11
+2023-01-23,Conservative,Economic & Social Impact,6
+2023-01-23,Conservative,Humanitarian & Asylum System,2
+2023-01-23,Conservative,Identity & Assimilation,10
+2023-01-23,Conservative,International Refugee Context,4
+2023-01-23,Conservative,Partisan Politics & Elections,15
+2023-01-23,Conservative,Unmapped,40
+2023-01-23,Conservative,Viral Incidents & Culture War,2
+2023-01-23,Liberal,Border Enforcement & Policy,2
+2023-01-23,Liberal,Economic & Social Impact,4
+2023-01-23,Liberal,Identity & Assimilation,4
+2023-01-23,Liberal,International Refugee Context,3
+2023-01-23,Liberal,Partisan Politics & Elections,9
+2023-01-23,Liberal,Unmapped,13
+2023-01-23,Liberal,Viral Incidents & Culture War,2
+2023-01-23,Moderate,Border Enforcement & Policy,2
+2023-01-23,Moderate,Economic & Social Impact,5
+2023-01-23,Moderate,Identity & Assimilation,8
+2023-01-23,Moderate,International Refugee Context,8
+2023-01-23,Moderate,Partisan Politics & Elections,4
+2023-01-23,Moderate,Unmapped,12
+2023-01-30,Conservative,Border Enforcement & Policy,13
+2023-01-30,Conservative,Crime & Security Narrative,9
+2023-01-30,Conservative,Economic & Social Impact,23
+2023-01-30,Conservative,Humanitarian & Asylum System,25
+2023-01-30,Conservative,Identity & Assimilation,12
+2023-01-30,Conservative,International Refugee Context,9
+2023-01-30,Conservative,Partisan Politics & Elections,31
+2023-01-30,Conservative,Unmapped,99
+2023-01-30,Conservative,Viral Incidents & Culture War,12
+2023-01-30,Liberal,Border Enforcement & Policy,2
+2023-01-30,Liberal,Crime & Security Narrative,2
+2023-01-30,Liberal,Economic & Social Impact,1
+2023-01-30,Liberal,Identity & Assimilation,5
+2023-01-30,Liberal,International Refugee Context,1
+2023-01-30,Liberal,Partisan Politics & Elections,12
+2023-01-30,Liberal,Unmapped,18
+2023-01-30,Moderate,Border Enforcement & Policy,6
+2023-01-30,Moderate,Crime & Security Narrative,2
+2023-01-30,Moderate,Economic & Social Impact,1
+2023-01-30,Moderate,Humanitarian & Asylum System,3
+2023-01-30,Moderate,Identity & Assimilation,5
+2023-01-30,Moderate,International Refugee Context,2
+2023-01-30,Moderate,Partisan Politics & Elections,11
+2023-01-30,Moderate,Unmapped,8
+2023-01-30,Moderate,Viral Incidents & Culture War,2
+2023-02-06,Conservative,Border Enforcement & Policy,21
+2023-02-06,Conservative,Crime & Security Narrative,26
+2023-02-06,Conservative,Economic & Social Impact,3
+2023-02-06,Conservative,Humanitarian & Asylum System,4
+2023-02-06,Conservative,Identity & Assimilation,12
+2023-02-06,Conservative,International Refugee Context,33
+2023-02-06,Conservative,Partisan Politics & Elections,28
+2023-02-06,Conservative,Unmapped,54
+2023-02-06,Conservative,Viral Incidents & Culture War,7
+2023-02-06,Liberal,Border Enforcement & Policy,2
+2023-02-06,Liberal,Crime & Security Narrative,3
+2023-02-06,Liberal,Economic & Social Impact,2
+2023-02-06,Liberal,Humanitarian & Asylum System,5
+2023-02-06,Liberal,Identity & Assimilation,4
+2023-02-06,Liberal,International Refugee Context,2
+2023-02-06,Liberal,Partisan Politics & Elections,8
+2023-02-06,Liberal,Unmapped,28
+2023-02-06,Liberal,Viral Incidents & Culture War,5
+2023-02-06,Moderate,Border Enforcement & Policy,4
+2023-02-06,Moderate,Crime & Security Narrative,3
+2023-02-06,Moderate,Economic & Social Impact,3
+2023-02-06,Moderate,Humanitarian & Asylum System,4
+2023-02-06,Moderate,Identity & Assimilation,8
+2023-02-06,Moderate,International Refugee Context,4
+2023-02-06,Moderate,Partisan Politics & Elections,18
+2023-02-06,Moderate,Unmapped,11
+2023-02-06,Moderate,Viral Incidents & Culture War,2
+2023-02-13,Conservative,Border Enforcement & Policy,15
+2023-02-13,Conservative,Crime & Security Narrative,10
+2023-02-13,Conservative,Economic & Social Impact,9
+2023-02-13,Conservative,Humanitarian & Asylum System,3
+2023-02-13,Conservative,Identity & Assimilation,22
+2023-02-13,Conservative,International Refugee Context,9
+2023-02-13,Conservative,Partisan Politics & Elections,35
+2023-02-13,Conservative,Unmapped,58
+2023-02-13,Conservative,Viral Incidents & Culture War,6
+2023-02-13,Liberal,Border Enforcement & Policy,2
+2023-02-13,Liberal,Identity & Assimilation,16
+2023-02-13,Liberal,International Refugee Context,2
+2023-02-13,Liberal,Partisan Politics & Elections,9
+2023-02-13,Liberal,Unmapped,16
+2023-02-13,Liberal,Viral Incidents & Culture War,2
+2023-02-13,Moderate,Border Enforcement & Policy,5
+2023-02-13,Moderate,Crime & Security Narrative,3
+2023-02-13,Moderate,Economic & Social Impact,2
+2023-02-13,Moderate,Identity & Assimilation,5
+2023-02-13,Moderate,International Refugee Context,2
+2023-02-13,Moderate,Partisan Politics & Elections,16
+2023-02-13,Moderate,Unmapped,12
+2023-02-20,Conservative,Border Enforcement & Policy,5
+2023-02-20,Conservative,Crime & Security Narrative,6
+2023-02-20,Conservative,Economic & Social Impact,3
+2023-02-20,Conservative,Humanitarian & Asylum System,16
+2023-02-20,Conservative,Identity & Assimilation,5
+2023-02-20,Conservative,International Refugee Context,3
+2023-02-20,Conservative,Partisan Politics & Elections,8
+2023-02-20,Conservative,Unmapped,30
+2023-02-20,Conservative,Viral Incidents & Culture War,3
+2023-02-20,Liberal,Border Enforcement & Policy,1
+2023-02-20,Liberal,Economic & Social Impact,1
+2023-02-20,Liberal,Humanitarian & Asylum System,3
+2023-02-20,Liberal,Identity & Assimilation,15
+2023-02-20,Liberal,International Refugee Context,11
+2023-02-20,Liberal,Partisan Politics & Elections,7
+2023-02-20,Liberal,Unmapped,8
+2023-02-20,Liberal,Viral Incidents & Culture War,2
+2023-02-20,Moderate,Border Enforcement & Policy,2
+2023-02-20,Moderate,Crime & Security Narrative,2
+2023-02-20,Moderate,Economic & Social Impact,5
+2023-02-20,Moderate,Humanitarian & Asylum System,3
+2023-02-20,Moderate,Identity & Assimilation,2
+2023-02-20,Moderate,International Refugee Context,1
+2023-02-20,Moderate,Partisan Politics & Elections,7
+2023-02-20,Moderate,Unmapped,5
+2023-02-27,Conservative,Border Enforcement & Policy,14
+2023-02-27,Conservative,Crime & Security Narrative,13
+2023-02-27,Conservative,Humanitarian & Asylum System,7
+2023-02-27,Conservative,Identity & Assimilation,8
+2023-02-27,Conservative,International Refugee Context,1
+2023-02-27,Conservative,Partisan Politics & Elections,16
+2023-02-27,Conservative,Unmapped,24
+2023-02-27,Conservative,Viral Incidents & Culture War,2
+2023-02-27,Liberal,Border Enforcement & Policy,3
+2023-02-27,Liberal,Economic & Social Impact,1
+2023-02-27,Liberal,Humanitarian & Asylum System,1
+2023-02-27,Liberal,Identity & Assimilation,3
+2023-02-27,Liberal,International Refugee Context,3
+2023-02-27,Liberal,Partisan Politics & Elections,17
+2023-02-27,Liberal,Unmapped,10
+2023-02-27,Liberal,Viral Incidents & Culture War,3
+2023-02-27,Moderate,Border Enforcement & Policy,22
+2023-02-27,Moderate,Crime & Security Narrative,7
+2023-02-27,Moderate,Economic & Social Impact,4
+2023-02-27,Moderate,Humanitarian & Asylum System,24
+2023-02-27,Moderate,Identity & Assimilation,5
+2023-02-27,Moderate,International Refugee Context,15
+2023-02-27,Moderate,Partisan Politics & Elections,21
+2023-02-27,Moderate,Unmapped,34
+2023-02-27,Moderate,Viral Incidents & Culture War,3
+2023-03-06,Conservative,Border Enforcement & Policy,6
+2023-03-06,Conservative,Crime & Security Narrative,10
+2023-03-06,Conservative,Economic & Social Impact,14
+2023-03-06,Conservative,Humanitarian & Asylum System,1
+2023-03-06,Conservative,Identity & Assimilation,5
+2023-03-06,Conservative,International Refugee Context,3
+2023-03-06,Conservative,Partisan Politics & Elections,12
+2023-03-06,Conservative,Unmapped,31
+2023-03-06,Conservative,Viral Incidents & Culture War,3
+2023-03-06,Liberal,Border Enforcement & Policy,7
+2023-03-06,Liberal,Crime & Security Narrative,7
+2023-03-06,Liberal,Economic & Social Impact,1
+2023-03-06,Liberal,Humanitarian & Asylum System,9
+2023-03-06,Liberal,Identity & Assimilation,5
+2023-03-06,Liberal,International Refugee Context,4
+2023-03-06,Liberal,Partisan Politics & Elections,12
+2023-03-06,Liberal,Unmapped,27
+2023-03-06,Liberal,Viral Incidents & Culture War,2
+2023-03-06,Moderate,Border Enforcement & Policy,3
+2023-03-06,Moderate,Crime & Security Narrative,6
+2023-03-06,Moderate,Economic & Social Impact,5
+2023-03-06,Moderate,Humanitarian & Asylum System,17
+2023-03-06,Moderate,Identity & Assimilation,6
+2023-03-06,Moderate,International Refugee Context,8
+2023-03-06,Moderate,Partisan Politics & Elections,14
+2023-03-06,Moderate,Unmapped,15
+2023-03-06,Moderate,Viral Incidents & Culture War,3
+2023-03-13,Conservative,Border Enforcement & Policy,8
+2023-03-13,Conservative,Crime & Security Narrative,6
+2023-03-13,Conservative,Economic & Social Impact,4
+2023-03-13,Conservative,Humanitarian & Asylum System,13
+2023-03-13,Conservative,Identity & Assimilation,11
+2023-03-13,Conservative,International Refugee Context,1
+2023-03-13,Conservative,Partisan Politics & Elections,16
+2023-03-13,Conservative,Unmapped,47
+2023-03-13,Conservative,Viral Incidents & Culture War,6
+2023-03-13,Liberal,Border Enforcement & Policy,1
+2023-03-13,Liberal,Crime & Security Narrative,1
+2023-03-13,Liberal,Economic & Social Impact,1
+2023-03-13,Liberal,Humanitarian & Asylum System,29
+2023-03-13,Liberal,Identity & Assimilation,3
+2023-03-13,Liberal,International Refugee Context,6
+2023-03-13,Liberal,Partisan Politics & Elections,3
+2023-03-13,Liberal,Unmapped,37
+2023-03-13,Liberal,Viral Incidents & Culture War,5
+2023-03-13,Moderate,Crime & Security Narrative,1
+2023-03-13,Moderate,Economic & Social Impact,4
+2023-03-13,Moderate,Humanitarian & Asylum System,2
+2023-03-13,Moderate,Identity & Assimilation,3
+2023-03-13,Moderate,International Refugee Context,1
+2023-03-13,Moderate,Partisan Politics & Elections,6
+2023-03-13,Moderate,Unmapped,16
+2023-03-13,Moderate,Viral Incidents & Culture War,1
+2023-03-20,Conservative,Border Enforcement & Policy,2
+2023-03-20,Conservative,Crime & Security Narrative,8
+2023-03-20,Conservative,Economic & Social Impact,3
+2023-03-20,Conservative,Humanitarian & Asylum System,3
+2023-03-20,Conservative,Identity & Assimilation,10
+2023-03-20,Conservative,International Refugee Context,2
+2023-03-20,Conservative,Partisan Politics & Elections,5
+2023-03-20,Conservative,Unmapped,6
+2023-03-20,Conservative,Viral Incidents & Culture War,2
+2023-03-20,Liberal,Border Enforcement & Policy,1
+2023-03-20,Liberal,Crime & Security Narrative,1
+2023-03-20,Liberal,Economic & Social Impact,1
+2023-03-20,Liberal,Humanitarian & Asylum System,1
+2023-03-20,Liberal,International Refugee Context,2
+2023-03-20,Liberal,Partisan Politics & Elections,2
+2023-03-20,Liberal,Unmapped,6
+2023-03-20,Moderate,Border Enforcement & Policy,1
+2023-03-20,Moderate,Economic & Social Impact,1
+2023-03-20,Moderate,Humanitarian & Asylum System,5
+2023-03-20,Moderate,Identity & Assimilation,2
+2023-03-20,Moderate,International Refugee Context,6
+2023-03-20,Moderate,Partisan Politics & Elections,4
+2023-03-20,Moderate,Unmapped,22
+2023-03-20,Moderate,Viral Incidents & Culture War,4
+2023-03-27,Conservative,Border Enforcement & Policy,4
+2023-03-27,Conservative,Crime & Security Narrative,1
+2023-03-27,Conservative,Economic & Social Impact,4
+2023-03-27,Conservative,Humanitarian & Asylum System,3
+2023-03-27,Conservative,Identity & Assimilation,11
+2023-03-27,Conservative,International Refugee Context,1
+2023-03-27,Conservative,Partisan Politics & Elections,25
+2023-03-27,Conservative,Unmapped,27
+2023-03-27,Conservative,Viral Incidents & Culture War,2
+2023-03-27,Liberal,Border Enforcement & Policy,2
+2023-03-27,Liberal,Humanitarian & Asylum System,12
+2023-03-27,Liberal,Identity & Assimilation,6
+2023-03-27,Liberal,International Refugee Context,46
+2023-03-27,Liberal,Partisan Politics & Elections,7
+2023-03-27,Liberal,Unmapped,15
+2023-03-27,Liberal,Viral Incidents & Culture War,1
+2023-03-27,Moderate,Border Enforcement & Policy,1
+2023-03-27,Moderate,Crime & Security Narrative,10
+2023-03-27,Moderate,Economic & Social Impact,1
+2023-03-27,Moderate,Humanitarian & Asylum System,10
+2023-03-27,Moderate,Identity & Assimilation,5
+2023-03-27,Moderate,International Refugee Context,16
+2023-03-27,Moderate,Partisan Politics & Elections,9
+2023-03-27,Moderate,Unmapped,23
+2023-03-27,Moderate,Viral Incidents & Culture War,1
+2023-04-03,Conservative,Border Enforcement & Policy,7
+2023-04-03,Conservative,Crime & Security Narrative,11
+2023-04-03,Conservative,Economic & Social Impact,5
+2023-04-03,Conservative,Humanitarian & Asylum System,1
+2023-04-03,Conservative,Identity & Assimilation,9
+2023-04-03,Conservative,International Refugee Context,4
+2023-04-03,Conservative,Partisan Politics & Elections,10
+2023-04-03,Conservative,Unmapped,45
+2023-04-03,Conservative,Viral Incidents & Culture War,5
+2023-04-03,Liberal,Border Enforcement & Policy,7
+2023-04-03,Liberal,Economic & Social Impact,1
+2023-04-03,Liberal,Humanitarian & Asylum System,3
+2023-04-03,Liberal,Identity & Assimilation,8
+2023-04-03,Liberal,Partisan Politics & Elections,12
+2023-04-03,Liberal,Unmapped,15
+2023-04-03,Liberal,Viral Incidents & Culture War,2
+2023-04-03,Moderate,Border Enforcement & Policy,2
+2023-04-03,Moderate,Humanitarian & Asylum System,1
+2023-04-03,Moderate,Identity & Assimilation,3
+2023-04-03,Moderate,International Refugee Context,3
+2023-04-03,Moderate,Partisan Politics & Elections,2
+2023-04-03,Moderate,Unmapped,6
+2023-04-03,Moderate,Viral Incidents & Culture War,1
+2023-04-10,Conservative,Border Enforcement & Policy,9
+2023-04-10,Conservative,Crime & Security Narrative,6
+2023-04-10,Conservative,Economic & Social Impact,5
+2023-04-10,Conservative,Humanitarian & Asylum System,4
+2023-04-10,Conservative,Identity & Assimilation,4
+2023-04-10,Conservative,International Refugee Context,2
+2023-04-10,Conservative,Partisan Politics & Elections,6
+2023-04-10,Conservative,Unmapped,21
+2023-04-10,Conservative,Viral Incidents & Culture War,1
+2023-04-10,Liberal,Border Enforcement & Policy,1
+2023-04-10,Liberal,Crime & Security Narrative,2
+2023-04-10,Liberal,Economic & Social Impact,2
+2023-04-10,Liberal,Humanitarian & Asylum System,2
+2023-04-10,Liberal,Identity & Assimilation,6
+2023-04-10,Liberal,Partisan Politics & Elections,6
+2023-04-10,Liberal,Unmapped,17
+2023-04-10,Liberal,Viral Incidents & Culture War,8
+2023-04-10,Moderate,Border Enforcement & Policy,5
+2023-04-10,Moderate,Crime & Security Narrative,1
+2023-04-10,Moderate,Economic & Social Impact,4
+2023-04-10,Moderate,Humanitarian & Asylum System,2
+2023-04-10,Moderate,Identity & Assimilation,3
+2023-04-10,Moderate,International Refugee Context,2
+2023-04-10,Moderate,Partisan Politics & Elections,1
+2023-04-10,Moderate,Unmapped,10
+2023-04-10,Moderate,Viral Incidents & Culture War,4
+2023-04-17,Conservative,Border Enforcement & Policy,14
+2023-04-17,Conservative,Crime & Security Narrative,6
+2023-04-17,Conservative,Economic & Social Impact,4
+2023-04-17,Conservative,Humanitarian & Asylum System,22
+2023-04-17,Conservative,Identity & Assimilation,10
+2023-04-17,Conservative,International Refugee Context,2
+2023-04-17,Conservative,Partisan Politics & Elections,16
+2023-04-17,Conservative,Unmapped,45
+2023-04-17,Conservative,Viral Incidents & Culture War,5
+2023-04-17,Liberal,Border Enforcement & Policy,2
+2023-04-17,Liberal,Crime & Security Narrative,1
+2023-04-17,Liberal,Economic & Social Impact,5
+2023-04-17,Liberal,Identity & Assimilation,2
+2023-04-17,Liberal,International Refugee Context,1
+2023-04-17,Liberal,Partisan Politics & Elections,5
+2023-04-17,Liberal,Unmapped,5
+2023-04-17,Moderate,Border Enforcement & Policy,5
+2023-04-17,Moderate,Economic & Social Impact,2
+2023-04-17,Moderate,Humanitarian & Asylum System,2
+2023-04-17,Moderate,Identity & Assimilation,3
+2023-04-17,Moderate,International Refugee Context,2
+2023-04-17,Moderate,Partisan Politics & Elections,9
+2023-04-17,Moderate,Unmapped,20
+2023-04-24,Conservative,Border Enforcement & Policy,20
+2023-04-24,Conservative,Crime & Security Narrative,7
+2023-04-24,Conservative,Economic & Social Impact,16
+2023-04-24,Conservative,Humanitarian & Asylum System,28
+2023-04-24,Conservative,Identity & Assimilation,9
+2023-04-24,Conservative,International Refugee Context,2
+2023-04-24,Conservative,Partisan Politics & Elections,27
+2023-04-24,Conservative,Unmapped,78
+2023-04-24,Conservative,Viral Incidents & Culture War,8
+2023-04-24,Liberal,Border Enforcement & Policy,2
+2023-04-24,Liberal,Crime & Security Narrative,1
+2023-04-24,Liberal,Economic & Social Impact,1
+2023-04-24,Liberal,Humanitarian & Asylum System,8
+2023-04-24,Liberal,Identity & Assimilation,3
+2023-04-24,Liberal,Partisan Politics & Elections,8
+2023-04-24,Liberal,Unmapped,10
+2023-04-24,Moderate,Border Enforcement & Policy,9
+2023-04-24,Moderate,Crime & Security Narrative,1
+2023-04-24,Moderate,Economic & Social Impact,3
+2023-04-24,Moderate,Humanitarian & Asylum System,2
+2023-04-24,Moderate,Identity & Assimilation,1
+2023-04-24,Moderate,International Refugee Context,2
+2023-04-24,Moderate,Partisan Politics & Elections,10
+2023-04-24,Moderate,Unmapped,24
+2023-05-01,Conservative,Border Enforcement & Policy,74
+2023-05-01,Conservative,Crime & Security Narrative,39
+2023-05-01,Conservative,Economic & Social Impact,12
+2023-05-01,Conservative,Humanitarian & Asylum System,12
+2023-05-01,Conservative,Identity & Assimilation,10
+2023-05-01,Conservative,International Refugee Context,2
+2023-05-01,Conservative,Partisan Politics & Elections,37
+2023-05-01,Conservative,Unmapped,141
+2023-05-01,Conservative,Viral Incidents & Culture War,45
+2023-05-01,Liberal,Border Enforcement & Policy,14
+2023-05-01,Liberal,Crime & Security Narrative,2
+2023-05-01,Liberal,Economic & Social Impact,1
+2023-05-01,Liberal,Humanitarian & Asylum System,4
+2023-05-01,Liberal,Identity & Assimilation,2
+2023-05-01,Liberal,International Refugee Context,14
+2023-05-01,Liberal,Partisan Politics & Elections,14
+2023-05-01,Liberal,Unmapped,27
+2023-05-01,Liberal,Viral Incidents & Culture War,8
+2023-05-01,Moderate,Border Enforcement & Policy,27
+2023-05-01,Moderate,Crime & Security Narrative,6
+2023-05-01,Moderate,Economic & Social Impact,5
+2023-05-01,Moderate,Humanitarian & Asylum System,10
+2023-05-01,Moderate,Identity & Assimilation,3
+2023-05-01,Moderate,International Refugee Context,4
+2023-05-01,Moderate,Partisan Politics & Elections,22
+2023-05-01,Moderate,Unmapped,41
+2023-05-01,Moderate,Viral Incidents & Culture War,12
+2023-05-08,Conservative,Border Enforcement & Policy,139
+2023-05-08,Conservative,Crime & Security Narrative,32
+2023-05-08,Conservative,Economic & Social Impact,27
+2023-05-08,Conservative,Humanitarian & Asylum System,34
+2023-05-08,Conservative,Identity & Assimilation,42
+2023-05-08,Conservative,International Refugee Context,10
+2023-05-08,Conservative,Partisan Politics & Elections,79
+2023-05-08,Conservative,Unmapped,240
+2023-05-08,Conservative,Viral Incidents & Culture War,22
+2023-05-08,Liberal,Border Enforcement & Policy,34
+2023-05-08,Liberal,Crime & Security Narrative,6
+2023-05-08,Liberal,Economic & Social Impact,4
+2023-05-08,Liberal,Humanitarian & Asylum System,15
+2023-05-08,Liberal,Identity & Assimilation,8
+2023-05-08,Liberal,International Refugee Context,10
+2023-05-08,Liberal,Partisan Politics & Elections,20
+2023-05-08,Liberal,Unmapped,71
+2023-05-08,Liberal,Viral Incidents & Culture War,1
+2023-05-08,Moderate,Border Enforcement & Policy,130
+2023-05-08,Moderate,Crime & Security Narrative,20
+2023-05-08,Moderate,Economic & Social Impact,18
+2023-05-08,Moderate,Humanitarian & Asylum System,44
+2023-05-08,Moderate,Identity & Assimilation,16
+2023-05-08,Moderate,International Refugee Context,7
+2023-05-08,Moderate,Partisan Politics & Elections,60
+2023-05-08,Moderate,Unmapped,137
+2023-05-08,Moderate,Viral Incidents & Culture War,12
+2023-05-15,Conservative,Border Enforcement & Policy,39
+2023-05-15,Conservative,Crime & Security Narrative,26
+2023-05-15,Conservative,Economic & Social Impact,32
+2023-05-15,Conservative,Humanitarian & Asylum System,27
+2023-05-15,Conservative,Identity & Assimilation,17
+2023-05-15,Conservative,International Refugee Context,6
+2023-05-15,Conservative,Partisan Politics & Elections,33
+2023-05-15,Conservative,Unmapped,144
+2023-05-15,Conservative,Viral Incidents & Culture War,18
+2023-05-15,Liberal,Border Enforcement & Policy,29
+2023-05-15,Liberal,Crime & Security Narrative,1
+2023-05-15,Liberal,Economic & Social Impact,4
+2023-05-15,Liberal,Humanitarian & Asylum System,15
+2023-05-15,Liberal,Identity & Assimilation,5
+2023-05-15,Liberal,International Refugee Context,2
+2023-05-15,Liberal,Partisan Politics & Elections,27
+2023-05-15,Liberal,Unmapped,51
+2023-05-15,Liberal,Viral Incidents & Culture War,7
+2023-05-15,Moderate,Border Enforcement & Policy,17
+2023-05-15,Moderate,Crime & Security Narrative,6
+2023-05-15,Moderate,Economic & Social Impact,10
+2023-05-15,Moderate,Humanitarian & Asylum System,8
+2023-05-15,Moderate,Identity & Assimilation,7
+2023-05-15,Moderate,International Refugee Context,5
+2023-05-15,Moderate,Partisan Politics & Elections,15
+2023-05-15,Moderate,Unmapped,67
+2023-05-15,Moderate,Viral Incidents & Culture War,8
+2023-05-22,Conservative,Border Enforcement & Policy,11
+2023-05-22,Conservative,Crime & Security Narrative,15
+2023-05-22,Conservative,Economic & Social Impact,16
+2023-05-22,Conservative,Humanitarian & Asylum System,21
+2023-05-22,Conservative,Identity & Assimilation,21
+2023-05-22,Conservative,International Refugee Context,7
+2023-05-22,Conservative,Partisan Politics & Elections,38
+2023-05-22,Conservative,Unmapped,105
+2023-05-22,Conservative,Viral Incidents & Culture War,7
+2023-05-22,Liberal,Border Enforcement & Policy,1
+2023-05-22,Liberal,Crime & Security Narrative,1
+2023-05-22,Liberal,Economic & Social Impact,1
+2023-05-22,Liberal,Humanitarian & Asylum System,5
+2023-05-22,Liberal,Identity & Assimilation,1
+2023-05-22,Liberal,Partisan Politics & Elections,10
+2023-05-22,Liberal,Unmapped,27
+2023-05-22,Liberal,Viral Incidents & Culture War,2
+2023-05-22,Moderate,Border Enforcement & Policy,7
+2023-05-22,Moderate,Crime & Security Narrative,4
+2023-05-22,Moderate,Economic & Social Impact,4
+2023-05-22,Moderate,Identity & Assimilation,2
+2023-05-22,Moderate,International Refugee Context,4
+2023-05-22,Moderate,Partisan Politics & Elections,17
+2023-05-22,Moderate,Unmapped,31
+2023-05-22,Moderate,Viral Incidents & Culture War,8
+2023-05-29,Conservative,Border Enforcement & Policy,5
+2023-05-29,Conservative,Crime & Security Narrative,5
+2023-05-29,Conservative,Economic & Social Impact,3
+2023-05-29,Conservative,Humanitarian & Asylum System,9
+2023-05-29,Conservative,Identity & Assimilation,16
+2023-05-29,Conservative,International Refugee Context,4
+2023-05-29,Conservative,Partisan Politics & Elections,21
+2023-05-29,Conservative,Unmapped,53
+2023-05-29,Conservative,Viral Incidents & Culture War,2
+2023-05-29,Liberal,Border Enforcement & Policy,14
+2023-05-29,Liberal,Crime & Security Narrative,4
+2023-05-29,Liberal,Economic & Social Impact,6
+2023-05-29,Liberal,Humanitarian & Asylum System,12
+2023-05-29,Liberal,Identity & Assimilation,14
+2023-05-29,Liberal,International Refugee Context,6
+2023-05-29,Liberal,Partisan Politics & Elections,15
+2023-05-29,Liberal,Unmapped,49
+2023-05-29,Liberal,Viral Incidents & Culture War,3
+2023-05-29,Moderate,Border Enforcement & Policy,18
+2023-05-29,Moderate,Crime & Security Narrative,5
+2023-05-29,Moderate,Economic & Social Impact,1
+2023-05-29,Moderate,Humanitarian & Asylum System,2
+2023-05-29,Moderate,Identity & Assimilation,4
+2023-05-29,Moderate,International Refugee Context,1
+2023-05-29,Moderate,Partisan Politics & Elections,12
+2023-05-29,Moderate,Unmapped,24
+2023-05-29,Moderate,Viral Incidents & Culture War,3
+2023-06-05,Conservative,Border Enforcement & Policy,10
+2023-06-05,Conservative,Crime & Security Narrative,10
+2023-06-05,Conservative,Economic & Social Impact,13
+2023-06-05,Conservative,Humanitarian & Asylum System,12
+2023-06-05,Conservative,Identity & Assimilation,13
+2023-06-05,Conservative,International Refugee Context,6
+2023-06-05,Conservative,Partisan Politics & Elections,16
+2023-06-05,Conservative,Unmapped,86
+2023-06-05,Conservative,Viral Incidents & Culture War,30
+2023-06-05,Liberal,Border Enforcement & Policy,3
+2023-06-05,Liberal,Economic & Social Impact,1
+2023-06-05,Liberal,Humanitarian & Asylum System,5
+2023-06-05,Liberal,Identity & Assimilation,1
+2023-06-05,Liberal,Partisan Politics & Elections,4
+2023-06-05,Liberal,Unmapped,2
+2023-06-05,Liberal,Viral Incidents & Culture War,3
+2023-06-05,Moderate,Border Enforcement & Policy,3
+2023-06-05,Moderate,Humanitarian & Asylum System,2
+2023-06-05,Moderate,Identity & Assimilation,3
+2023-06-05,Moderate,International Refugee Context,9
+2023-06-05,Moderate,Partisan Politics & Elections,3
+2023-06-05,Moderate,Unmapped,8
+2023-06-12,Conservative,Border Enforcement & Policy,16
+2023-06-12,Conservative,Crime & Security Narrative,3
+2023-06-12,Conservative,Economic & Social Impact,1
+2023-06-12,Conservative,Humanitarian & Asylum System,4
+2023-06-12,Conservative,Identity & Assimilation,9
+2023-06-12,Conservative,International Refugee Context,3
+2023-06-12,Conservative,Partisan Politics & Elections,20
+2023-06-12,Conservative,Unmapped,50
+2023-06-12,Conservative,Viral Incidents & Culture War,10
+2023-06-12,Liberal,Border Enforcement & Policy,5
+2023-06-12,Liberal,Crime & Security Narrative,3
+2023-06-12,Liberal,Economic & Social Impact,7
+2023-06-12,Liberal,Humanitarian & Asylum System,1
+2023-06-12,Liberal,Identity & Assimilation,7
+2023-06-12,Liberal,Partisan Politics & Elections,15
+2023-06-12,Liberal,Unmapped,20
+2023-06-12,Liberal,Viral Incidents & Culture War,4
+2023-06-12,Moderate,Border Enforcement & Policy,1
+2023-06-12,Moderate,Crime & Security Narrative,4
+2023-06-12,Moderate,Economic & Social Impact,3
+2023-06-12,Moderate,Humanitarian & Asylum System,2
+2023-06-12,Moderate,Identity & Assimilation,4
+2023-06-12,Moderate,International Refugee Context,6
+2023-06-12,Moderate,Partisan Politics & Elections,2
+2023-06-12,Moderate,Unmapped,21
+2023-06-12,Moderate,Viral Incidents & Culture War,1
+2023-06-19,Conservative,Border Enforcement & Policy,9
+2023-06-19,Conservative,Crime & Security Narrative,11
+2023-06-19,Conservative,Economic & Social Impact,4
+2023-06-19,Conservative,Humanitarian & Asylum System,6
+2023-06-19,Conservative,Identity & Assimilation,1
+2023-06-19,Conservative,International Refugee Context,4
+2023-06-19,Conservative,Partisan Politics & Elections,14
+2023-06-19,Conservative,Unmapped,23
+2023-06-19,Conservative,Viral Incidents & Culture War,2
+2023-06-19,Liberal,Border Enforcement & Policy,1
+2023-06-19,Liberal,Crime & Security Narrative,2
+2023-06-19,Liberal,Economic & Social Impact,2
+2023-06-19,Liberal,Humanitarian & Asylum System,1
+2023-06-19,Liberal,Identity & Assimilation,7
+2023-06-19,Liberal,International Refugee Context,1
+2023-06-19,Liberal,Partisan Politics & Elections,6
+2023-06-19,Liberal,Unmapped,5
+2023-06-19,Liberal,Viral Incidents & Culture War,1
+2023-06-19,Moderate,Border Enforcement & Policy,2
+2023-06-19,Moderate,Crime & Security Narrative,6
+2023-06-19,Moderate,Economic & Social Impact,4
+2023-06-19,Moderate,Humanitarian & Asylum System,2
+2023-06-19,Moderate,Identity & Assimilation,6
+2023-06-19,Moderate,International Refugee Context,2
+2023-06-19,Moderate,Partisan Politics & Elections,18
+2023-06-19,Moderate,Unmapped,22
+2023-06-19,Moderate,Viral Incidents & Culture War,5
+2023-06-26,Conservative,Border Enforcement & Policy,7
+2023-06-26,Conservative,Crime & Security Narrative,4
+2023-06-26,Conservative,Economic & Social Impact,11
+2023-06-26,Conservative,Humanitarian & Asylum System,3
+2023-06-26,Conservative,Identity & Assimilation,11
+2023-06-26,Conservative,International Refugee Context,4
+2023-06-26,Conservative,Partisan Politics & Elections,9
+2023-06-26,Conservative,Unmapped,41
+2023-06-26,Conservative,Viral Incidents & Culture War,3
+2023-06-26,Liberal,Border Enforcement & Policy,6
+2023-06-26,Liberal,Crime & Security Narrative,7
+2023-06-26,Liberal,Economic & Social Impact,2
+2023-06-26,Liberal,Humanitarian & Asylum System,6
+2023-06-26,Liberal,Identity & Assimilation,5
+2023-06-26,Liberal,International Refugee Context,1
+2023-06-26,Liberal,Partisan Politics & Elections,4
+2023-06-26,Liberal,Unmapped,18
+2023-06-26,Liberal,Viral Incidents & Culture War,1
+2023-06-26,Moderate,Border Enforcement & Policy,6
+2023-06-26,Moderate,Crime & Security Narrative,3
+2023-06-26,Moderate,Economic & Social Impact,3
+2023-06-26,Moderate,Humanitarian & Asylum System,2
+2023-06-26,Moderate,Identity & Assimilation,4
+2023-06-26,Moderate,International Refugee Context,4
+2023-06-26,Moderate,Partisan Politics & Elections,10
+2023-06-26,Moderate,Unmapped,13
+2023-07-03,Conservative,Border Enforcement & Policy,7
+2023-07-03,Conservative,Crime & Security Narrative,11
+2023-07-03,Conservative,Economic & Social Impact,5
+2023-07-03,Conservative,Humanitarian & Asylum System,3
+2023-07-03,Conservative,Identity & Assimilation,12
+2023-07-03,Conservative,International Refugee Context,14
+2023-07-03,Conservative,Partisan Politics & Elections,7
+2023-07-03,Conservative,Unmapped,40
+2023-07-03,Conservative,Viral Incidents & Culture War,2
+2023-07-03,Liberal,Border Enforcement & Policy,1
+2023-07-03,Liberal,Crime & Security Narrative,1
+2023-07-03,Liberal,Economic & Social Impact,1
+2023-07-03,Liberal,Humanitarian & Asylum System,1
+2023-07-03,Liberal,Identity & Assimilation,4
+2023-07-03,Liberal,International Refugee Context,7
+2023-07-03,Liberal,Partisan Politics & Elections,4
+2023-07-03,Liberal,Unmapped,20
+2023-07-03,Liberal,Viral Incidents & Culture War,2
+2023-07-03,Moderate,Border Enforcement & Policy,6
+2023-07-03,Moderate,Crime & Security Narrative,1
+2023-07-03,Moderate,Economic & Social Impact,1
+2023-07-03,Moderate,Identity & Assimilation,16
+2023-07-03,Moderate,International Refugee Context,21
+2023-07-03,Moderate,Partisan Politics & Elections,13
+2023-07-03,Moderate,Unmapped,26
+2023-07-03,Moderate,Viral Incidents & Culture War,1
+2023-07-10,Conservative,Border Enforcement & Policy,12
+2023-07-10,Conservative,Crime & Security Narrative,7
+2023-07-10,Conservative,Economic & Social Impact,10
+2023-07-10,Conservative,Humanitarian & Asylum System,7
+2023-07-10,Conservative,Identity & Assimilation,13
+2023-07-10,Conservative,International Refugee Context,11
+2023-07-10,Conservative,Partisan Politics & Elections,10
+2023-07-10,Conservative,Unmapped,49
+2023-07-10,Conservative,Viral Incidents & Culture War,2
+2023-07-10,Liberal,Border Enforcement & Policy,3
+2023-07-10,Liberal,Crime & Security Narrative,1
+2023-07-10,Liberal,Humanitarian & Asylum System,1
+2023-07-10,Liberal,Identity & Assimilation,4
+2023-07-10,Liberal,International Refugee Context,19
+2023-07-10,Liberal,Partisan Politics & Elections,6
+2023-07-10,Liberal,Unmapped,7
+2023-07-10,Liberal,Viral Incidents & Culture War,1
+2023-07-10,Moderate,Crime & Security Narrative,2
+2023-07-10,Moderate,Economic & Social Impact,2
+2023-07-10,Moderate,Humanitarian & Asylum System,6
+2023-07-10,Moderate,Identity & Assimilation,5
+2023-07-10,Moderate,International Refugee Context,3
+2023-07-10,Moderate,Unmapped,7
+2023-07-17,Conservative,Border Enforcement & Policy,5
+2023-07-17,Conservative,Crime & Security Narrative,12
+2023-07-17,Conservative,Economic & Social Impact,5
+2023-07-17,Conservative,Humanitarian & Asylum System,8
+2023-07-17,Conservative,Identity & Assimilation,10
+2023-07-17,Conservative,International Refugee Context,5
+2023-07-17,Conservative,Partisan Politics & Elections,13
+2023-07-17,Conservative,Unmapped,49
+2023-07-17,Conservative,Viral Incidents & Culture War,5
+2023-07-17,Liberal,Border Enforcement & Policy,5
+2023-07-17,Liberal,Crime & Security Narrative,1
+2023-07-17,Liberal,Economic & Social Impact,7
+2023-07-17,Liberal,Humanitarian & Asylum System,5
+2023-07-17,Liberal,Identity & Assimilation,4
+2023-07-17,Liberal,International Refugee Context,2
+2023-07-17,Liberal,Partisan Politics & Elections,4
+2023-07-17,Liberal,Unmapped,19
+2023-07-17,Liberal,Viral Incidents & Culture War,2
+2023-07-17,Moderate,Border Enforcement & Policy,17
+2023-07-17,Moderate,Crime & Security Narrative,10
+2023-07-17,Moderate,Economic & Social Impact,11
+2023-07-17,Moderate,Humanitarian & Asylum System,18
+2023-07-17,Moderate,Identity & Assimilation,13
+2023-07-17,Moderate,International Refugee Context,4
+2023-07-17,Moderate,Partisan Politics & Elections,14
+2023-07-17,Moderate,Unmapped,65
+2023-07-17,Moderate,Viral Incidents & Culture War,4
+2023-07-24,Conservative,Border Enforcement & Policy,35
+2023-07-24,Conservative,Crime & Security Narrative,27
+2023-07-24,Conservative,Economic & Social Impact,3
+2023-07-24,Conservative,Humanitarian & Asylum System,7
+2023-07-24,Conservative,Identity & Assimilation,10
+2023-07-24,Conservative,International Refugee Context,6
+2023-07-24,Conservative,Partisan Politics & Elections,22
+2023-07-24,Conservative,Unmapped,84
+2023-07-24,Conservative,Viral Incidents & Culture War,3
+2023-07-24,Liberal,Border Enforcement & Policy,3
+2023-07-24,Liberal,Crime & Security Narrative,1
+2023-07-24,Liberal,Economic & Social Impact,2
+2023-07-24,Liberal,Humanitarian & Asylum System,4
+2023-07-24,Liberal,Identity & Assimilation,4
+2023-07-24,Liberal,International Refugee Context,2
+2023-07-24,Liberal,Partisan Politics & Elections,5
+2023-07-24,Liberal,Unmapped,20
+2023-07-24,Liberal,Viral Incidents & Culture War,3
+2023-07-24,Moderate,Border Enforcement & Policy,7
+2023-07-24,Moderate,Crime & Security Narrative,4
+2023-07-24,Moderate,Economic & Social Impact,1
+2023-07-24,Moderate,Humanitarian & Asylum System,19
+2023-07-24,Moderate,Identity & Assimilation,5
+2023-07-24,Moderate,International Refugee Context,2
+2023-07-24,Moderate,Partisan Politics & Elections,18
+2023-07-24,Moderate,Unmapped,26
+2023-07-24,Moderate,Viral Incidents & Culture War,3
+2023-07-31,Conservative,Border Enforcement & Policy,19
+2023-07-31,Conservative,Crime & Security Narrative,13
+2023-07-31,Conservative,Economic & Social Impact,15
+2023-07-31,Conservative,Humanitarian & Asylum System,37
+2023-07-31,Conservative,Identity & Assimilation,13
+2023-07-31,Conservative,International Refugee Context,6
+2023-07-31,Conservative,Partisan Politics & Elections,29
+2023-07-31,Conservative,Unmapped,124
+2023-07-31,Liberal,Border Enforcement & Policy,2
+2023-07-31,Liberal,Crime & Security Narrative,1
+2023-07-31,Liberal,Economic & Social Impact,4
+2023-07-31,Liberal,Humanitarian & Asylum System,5
+2023-07-31,Liberal,Identity & Assimilation,4
+2023-07-31,Liberal,International Refugee Context,5
+2023-07-31,Liberal,Partisan Politics & Elections,7
+2023-07-31,Liberal,Unmapped,12
+2023-07-31,Liberal,Viral Incidents & Culture War,1
+2023-07-31,Moderate,Border Enforcement & Policy,3
+2023-07-31,Moderate,Crime & Security Narrative,3
+2023-07-31,Moderate,Economic & Social Impact,3
+2023-07-31,Moderate,Humanitarian & Asylum System,6
+2023-07-31,Moderate,Identity & Assimilation,7
+2023-07-31,Moderate,International Refugee Context,17
+2023-07-31,Moderate,Partisan Politics & Elections,6
+2023-07-31,Moderate,Unmapped,27
+2023-07-31,Moderate,Viral Incidents & Culture War,1
+2023-08-07,Conservative,Border Enforcement & Policy,15
+2023-08-07,Conservative,Crime & Security Narrative,14
+2023-08-07,Conservative,Economic & Social Impact,24
+2023-08-07,Conservative,Humanitarian & Asylum System,46
+2023-08-07,Conservative,Identity & Assimilation,38
+2023-08-07,Conservative,International Refugee Context,2
+2023-08-07,Conservative,Partisan Politics & Elections,34
+2023-08-07,Conservative,Unmapped,135
+2023-08-07,Conservative,Viral Incidents & Culture War,9
+2023-08-07,Liberal,Crime & Security Narrative,2
+2023-08-07,Liberal,Economic & Social Impact,1
+2023-08-07,Liberal,Humanitarian & Asylum System,2
+2023-08-07,Liberal,Identity & Assimilation,3
+2023-08-07,Liberal,Partisan Politics & Elections,6
+2023-08-07,Liberal,Unmapped,8
+2023-08-07,Liberal,Viral Incidents & Culture War,2
+2023-08-07,Moderate,Border Enforcement & Policy,7
+2023-08-07,Moderate,Crime & Security Narrative,5
+2023-08-07,Moderate,Economic & Social Impact,7
+2023-08-07,Moderate,Humanitarian & Asylum System,6
+2023-08-07,Moderate,Identity & Assimilation,11
+2023-08-07,Moderate,International Refugee Context,3
+2023-08-07,Moderate,Partisan Politics & Elections,14
+2023-08-07,Moderate,Unmapped,30
+2023-08-07,Moderate,Viral Incidents & Culture War,4
+2023-08-14,Conservative,Border Enforcement & Policy,12
+2023-08-14,Conservative,Crime & Security Narrative,20
+2023-08-14,Conservative,Economic & Social Impact,8
+2023-08-14,Conservative,Humanitarian & Asylum System,19
+2023-08-14,Conservative,Identity & Assimilation,13
+2023-08-14,Conservative,International Refugee Context,7
+2023-08-14,Conservative,Partisan Politics & Elections,17
+2023-08-14,Conservative,Unmapped,82
+2023-08-14,Conservative,Viral Incidents & Culture War,10
+2023-08-14,Liberal,Border Enforcement & Policy,2
+2023-08-14,Liberal,Crime & Security Narrative,1
+2023-08-14,Liberal,Economic & Social Impact,1
+2023-08-14,Liberal,Humanitarian & Asylum System,6
+2023-08-14,Liberal,Identity & Assimilation,5
+2023-08-14,Liberal,International Refugee Context,1
+2023-08-14,Liberal,Partisan Politics & Elections,4
+2023-08-14,Liberal,Unmapped,14
+2023-08-14,Liberal,Viral Incidents & Culture War,3
+2023-08-14,Moderate,Border Enforcement & Policy,2
+2023-08-14,Moderate,Crime & Security Narrative,1
+2023-08-14,Moderate,Economic & Social Impact,2
+2023-08-14,Moderate,Humanitarian & Asylum System,1
+2023-08-14,Moderate,Identity & Assimilation,6
+2023-08-14,Moderate,International Refugee Context,9
+2023-08-14,Moderate,Partisan Politics & Elections,12
+2023-08-14,Moderate,Unmapped,25
+2023-08-14,Moderate,Viral Incidents & Culture War,4
+2023-08-21,Conservative,Border Enforcement & Policy,7
+2023-08-21,Conservative,Crime & Security Narrative,7
+2023-08-21,Conservative,Economic & Social Impact,12
+2023-08-21,Conservative,Humanitarian & Asylum System,6
+2023-08-21,Conservative,Identity & Assimilation,11
+2023-08-21,Conservative,International Refugee Context,4
+2023-08-21,Conservative,Partisan Politics & Elections,23
+2023-08-21,Conservative,Unmapped,45
+2023-08-21,Conservative,Viral Incidents & Culture War,7
+2023-08-21,Liberal,Border Enforcement & Policy,2
+2023-08-21,Liberal,Economic & Social Impact,4
+2023-08-21,Liberal,Humanitarian & Asylum System,3
+2023-08-21,Liberal,Identity & Assimilation,3
+2023-08-21,Liberal,International Refugee Context,3
+2023-08-21,Liberal,Partisan Politics & Elections,10
+2023-08-21,Liberal,Unmapped,17
+2023-08-21,Liberal,Viral Incidents & Culture War,3
+2023-08-21,Moderate,Border Enforcement & Policy,1
+2023-08-21,Moderate,Crime & Security Narrative,1
+2023-08-21,Moderate,Economic & Social Impact,1
+2023-08-21,Moderate,Humanitarian & Asylum System,3
+2023-08-21,Moderate,Identity & Assimilation,4
+2023-08-21,Moderate,International Refugee Context,2
+2023-08-21,Moderate,Partisan Politics & Elections,9
+2023-08-21,Moderate,Unmapped,3
+2023-08-21,Moderate,Viral Incidents & Culture War,1
+2023-08-28,Conservative,Border Enforcement & Policy,11
+2023-08-28,Conservative,Crime & Security Narrative,9
+2023-08-28,Conservative,Economic & Social Impact,11
+2023-08-28,Conservative,Humanitarian & Asylum System,14
+2023-08-28,Conservative,Identity & Assimilation,9
+2023-08-28,Conservative,International Refugee Context,4
+2023-08-28,Conservative,Partisan Politics & Elections,31
+2023-08-28,Conservative,Unmapped,107
+2023-08-28,Conservative,Viral Incidents & Culture War,18
+2023-08-28,Liberal,Border Enforcement & Policy,3
+2023-08-28,Liberal,Economic & Social Impact,1
+2023-08-28,Liberal,Identity & Assimilation,2
+2023-08-28,Liberal,International Refugee Context,1
+2023-08-28,Liberal,Partisan Politics & Elections,8
+2023-08-28,Liberal,Unmapped,7
+2023-08-28,Moderate,Border Enforcement & Policy,7
+2023-08-28,Moderate,Crime & Security Narrative,3
+2023-08-28,Moderate,Economic & Social Impact,4
+2023-08-28,Moderate,Humanitarian & Asylum System,13
+2023-08-28,Moderate,Identity & Assimilation,4
+2023-08-28,Moderate,International Refugee Context,1
+2023-08-28,Moderate,Partisan Politics & Elections,16
+2023-08-28,Moderate,Unmapped,62
+2023-08-28,Moderate,Viral Incidents & Culture War,13
+2023-09-04,Conservative,Border Enforcement & Policy,28
+2023-09-04,Conservative,Crime & Security Narrative,19
+2023-09-04,Conservative,Economic & Social Impact,17
+2023-09-04,Conservative,Humanitarian & Asylum System,16
+2023-09-04,Conservative,Identity & Assimilation,20
+2023-09-04,Conservative,International Refugee Context,4
+2023-09-04,Conservative,Partisan Politics & Elections,54
+2023-09-04,Conservative,Unmapped,176
+2023-09-04,Conservative,Viral Incidents & Culture War,25
+2023-09-04,Liberal,Border Enforcement & Policy,5
+2023-09-04,Liberal,Humanitarian & Asylum System,4
+2023-09-04,Liberal,Identity & Assimilation,6
+2023-09-04,Liberal,International Refugee Context,7
+2023-09-04,Liberal,Partisan Politics & Elections,8
+2023-09-04,Liberal,Unmapped,11
+2023-09-04,Liberal,Viral Incidents & Culture War,3
+2023-09-04,Moderate,Border Enforcement & Policy,7
+2023-09-04,Moderate,Economic & Social Impact,16
+2023-09-04,Moderate,Humanitarian & Asylum System,4
+2023-09-04,Moderate,Identity & Assimilation,4
+2023-09-04,Moderate,International Refugee Context,4
+2023-09-04,Moderate,Partisan Politics & Elections,13
+2023-09-04,Moderate,Unmapped,23
+2023-09-04,Moderate,Viral Incidents & Culture War,2
+2023-09-11,Conservative,Border Enforcement & Policy,54
+2023-09-11,Conservative,Crime & Security Narrative,23
+2023-09-11,Conservative,Economic & Social Impact,14
+2023-09-11,Conservative,Humanitarian & Asylum System,42
+2023-09-11,Conservative,Identity & Assimilation,30
+2023-09-11,Conservative,International Refugee Context,9
+2023-09-11,Conservative,Partisan Politics & Elections,43
+2023-09-11,Conservative,Unmapped,174
+2023-09-11,Conservative,Viral Incidents & Culture War,35
+2023-09-11,Liberal,Border Enforcement & Policy,3
+2023-09-11,Liberal,Crime & Security Narrative,1
+2023-09-11,Liberal,Humanitarian & Asylum System,5
+2023-09-11,Liberal,Identity & Assimilation,4
+2023-09-11,Liberal,International Refugee Context,1
+2023-09-11,Liberal,Partisan Politics & Elections,3
+2023-09-11,Liberal,Unmapped,11
+2023-09-11,Liberal,Viral Incidents & Culture War,2
+2023-09-11,Moderate,Border Enforcement & Policy,8
+2023-09-11,Moderate,Crime & Security Narrative,5
+2023-09-11,Moderate,Economic & Social Impact,22
+2023-09-11,Moderate,Humanitarian & Asylum System,12
+2023-09-11,Moderate,Identity & Assimilation,6
+2023-09-11,Moderate,International Refugee Context,1
+2023-09-11,Moderate,Partisan Politics & Elections,17
+2023-09-11,Moderate,Unmapped,72
+2023-09-11,Moderate,Viral Incidents & Culture War,17
+2023-09-18,Conservative,Border Enforcement & Policy,70
+2023-09-18,Conservative,Crime & Security Narrative,66
+2023-09-18,Conservative,Economic & Social Impact,24
+2023-09-18,Conservative,Humanitarian & Asylum System,59
+2023-09-18,Conservative,Identity & Assimilation,43
+2023-09-18,Conservative,International Refugee Context,48
+2023-09-18,Conservative,Partisan Politics & Elections,55
+2023-09-18,Conservative,Unmapped,242
+2023-09-18,Conservative,Viral Incidents & Culture War,38
+2023-09-18,Liberal,Border Enforcement & Policy,3
+2023-09-18,Liberal,Crime & Security Narrative,2
+2023-09-18,Liberal,Economic & Social Impact,1
+2023-09-18,Liberal,Humanitarian & Asylum System,8
+2023-09-18,Liberal,Identity & Assimilation,8
+2023-09-18,Liberal,International Refugee Context,4
+2023-09-18,Liberal,Partisan Politics & Elections,7
+2023-09-18,Liberal,Unmapped,35
+2023-09-18,Liberal,Viral Incidents & Culture War,2
+2023-09-18,Moderate,Border Enforcement & Policy,6
+2023-09-18,Moderate,Crime & Security Narrative,1
+2023-09-18,Moderate,Economic & Social Impact,2
+2023-09-18,Moderate,Humanitarian & Asylum System,4
+2023-09-18,Moderate,Identity & Assimilation,1
+2023-09-18,Moderate,International Refugee Context,7
+2023-09-18,Moderate,Partisan Politics & Elections,3
+2023-09-18,Moderate,Unmapped,33
+2023-09-18,Moderate,Viral Incidents & Culture War,2
+2023-09-25,Conservative,Border Enforcement & Policy,53
+2023-09-25,Conservative,Crime & Security Narrative,38
+2023-09-25,Conservative,Economic & Social Impact,17
+2023-09-25,Conservative,Humanitarian & Asylum System,25
+2023-09-25,Conservative,Identity & Assimilation,36
+2023-09-25,Conservative,International Refugee Context,29
+2023-09-25,Conservative,Partisan Politics & Elections,52
+2023-09-25,Conservative,Unmapped,128
+2023-09-25,Conservative,Viral Incidents & Culture War,16
+2023-09-25,Liberal,Border Enforcement & Policy,2
+2023-09-25,Liberal,Economic & Social Impact,4
+2023-09-25,Liberal,Humanitarian & Asylum System,1
+2023-09-25,Liberal,Identity & Assimilation,12
+2023-09-25,Liberal,International Refugee Context,11
+2023-09-25,Liberal,Partisan Politics & Elections,9
+2023-09-25,Liberal,Unmapped,27
+2023-09-25,Liberal,Viral Incidents & Culture War,3
+2023-09-25,Moderate,Border Enforcement & Policy,22
+2023-09-25,Moderate,Crime & Security Narrative,11
+2023-09-25,Moderate,Economic & Social Impact,2
+2023-09-25,Moderate,Humanitarian & Asylum System,9
+2023-09-25,Moderate,Identity & Assimilation,11
+2023-09-25,Moderate,International Refugee Context,5
+2023-09-25,Moderate,Partisan Politics & Elections,25
+2023-09-25,Moderate,Unmapped,49
+2023-09-25,Moderate,Viral Incidents & Culture War,2
+2023-10-02,Conservative,Border Enforcement & Policy,71
+2023-10-02,Conservative,Crime & Security Narrative,26
+2023-10-02,Conservative,Economic & Social Impact,25
+2023-10-02,Conservative,Humanitarian & Asylum System,24
+2023-10-02,Conservative,Identity & Assimilation,17
+2023-10-02,Conservative,International Refugee Context,9
+2023-10-02,Conservative,Partisan Politics & Elections,84
+2023-10-02,Conservative,Unmapped,207
+2023-10-02,Conservative,Viral Incidents & Culture War,30
+2023-10-02,Liberal,Border Enforcement & Policy,5
+2023-10-02,Liberal,Crime & Security Narrative,3
+2023-10-02,Liberal,Economic & Social Impact,1
+2023-10-02,Liberal,Humanitarian & Asylum System,1
+2023-10-02,Liberal,Identity & Assimilation,5
+2023-10-02,Liberal,International Refugee Context,4
+2023-10-02,Liberal,Partisan Politics & Elections,10
+2023-10-02,Liberal,Unmapped,16
+2023-10-02,Liberal,Viral Incidents & Culture War,3
+2023-10-02,Moderate,Border Enforcement & Policy,21
+2023-10-02,Moderate,Crime & Security Narrative,5
+2023-10-02,Moderate,Economic & Social Impact,4
+2023-10-02,Moderate,Humanitarian & Asylum System,11
+2023-10-02,Moderate,Identity & Assimilation,8
+2023-10-02,Moderate,International Refugee Context,14
+2023-10-02,Moderate,Partisan Politics & Elections,24
+2023-10-02,Moderate,Unmapped,38
+2023-10-02,Moderate,Viral Incidents & Culture War,1
+2023-10-09,Conservative,Border Enforcement & Policy,12
+2023-10-09,Conservative,Crime & Security Narrative,9
+2023-10-09,Conservative,Economic & Social Impact,7
+2023-10-09,Conservative,Humanitarian & Asylum System,16
+2023-10-09,Conservative,Identity & Assimilation,5
+2023-10-09,Conservative,International Refugee Context,26
+2023-10-09,Conservative,Partisan Politics & Elections,17
+2023-10-09,Conservative,Unmapped,54
+2023-10-09,Conservative,Viral Incidents & Culture War,1
+2023-10-09,Liberal,Border Enforcement & Policy,1
+2023-10-09,Liberal,Crime & Security Narrative,2
+2023-10-09,Liberal,Economic & Social Impact,6
+2023-10-09,Liberal,Humanitarian & Asylum System,2
+2023-10-09,Liberal,Identity & Assimilation,5
+2023-10-09,Liberal,International Refugee Context,15
+2023-10-09,Liberal,Partisan Politics & Elections,3
+2023-10-09,Liberal,Unmapped,14
+2023-10-09,Liberal,Viral Incidents & Culture War,2
+2023-10-09,Moderate,Border Enforcement & Policy,27
+2023-10-09,Moderate,Crime & Security Narrative,9
+2023-10-09,Moderate,Economic & Social Impact,2
+2023-10-09,Moderate,Humanitarian & Asylum System,4
+2023-10-09,Moderate,Identity & Assimilation,11
+2023-10-09,Moderate,International Refugee Context,25
+2023-10-09,Moderate,Partisan Politics & Elections,31
+2023-10-09,Moderate,Unmapped,31
+2023-10-09,Moderate,Viral Incidents & Culture War,4
+2023-10-16,Conservative,Border Enforcement & Policy,4
+2023-10-16,Conservative,Crime & Security Narrative,8
+2023-10-16,Conservative,Economic & Social Impact,16
+2023-10-16,Conservative,Humanitarian & Asylum System,11
+2023-10-16,Conservative,Identity & Assimilation,10
+2023-10-16,Conservative,International Refugee Context,95
+2023-10-16,Conservative,Partisan Politics & Elections,19
+2023-10-16,Conservative,Unmapped,51
+2023-10-16,Conservative,Viral Incidents & Culture War,7
+2023-10-16,Liberal,Border Enforcement & Policy,3
+2023-10-16,Liberal,Crime & Security Narrative,1
+2023-10-16,Liberal,Economic & Social Impact,2
+2023-10-16,Liberal,Humanitarian & Asylum System,8
+2023-10-16,Liberal,Identity & Assimilation,1
+2023-10-16,Liberal,International Refugee Context,28
+2023-10-16,Liberal,Partisan Politics & Elections,8
+2023-10-16,Liberal,Unmapped,12
+2023-10-16,Liberal,Viral Incidents & Culture War,3
+2023-10-16,Moderate,Border Enforcement & Policy,3
+2023-10-16,Moderate,Crime & Security Narrative,1
+2023-10-16,Moderate,Economic & Social Impact,1
+2023-10-16,Moderate,Humanitarian & Asylum System,9
+2023-10-16,Moderate,Identity & Assimilation,4
+2023-10-16,Moderate,International Refugee Context,23
+2023-10-16,Moderate,Partisan Politics & Elections,6
+2023-10-16,Moderate,Unmapped,4
+2023-10-23,Conservative,Border Enforcement & Policy,29
+2023-10-23,Conservative,Crime & Security Narrative,15
+2023-10-23,Conservative,Economic & Social Impact,20
+2023-10-23,Conservative,Humanitarian & Asylum System,18
+2023-10-23,Conservative,Identity & Assimilation,20
+2023-10-23,Conservative,International Refugee Context,56
+2023-10-23,Conservative,Partisan Politics & Elections,36
+2023-10-23,Conservative,Unmapped,95
+2023-10-23,Conservative,Viral Incidents & Culture War,11
+2023-10-23,Liberal,Border Enforcement & Policy,9
+2023-10-23,Liberal,Economic & Social Impact,3
+2023-10-23,Liberal,Humanitarian & Asylum System,3
+2023-10-23,Liberal,Identity & Assimilation,3
+2023-10-23,Liberal,International Refugee Context,7
+2023-10-23,Liberal,Partisan Politics & Elections,6
+2023-10-23,Liberal,Unmapped,10
+2023-10-23,Liberal,Viral Incidents & Culture War,3
+2023-10-23,Moderate,Border Enforcement & Policy,9
+2023-10-23,Moderate,Crime & Security Narrative,2
+2023-10-23,Moderate,Economic & Social Impact,3
+2023-10-23,Moderate,Humanitarian & Asylum System,3
+2023-10-23,Moderate,Identity & Assimilation,9
+2023-10-23,Moderate,International Refugee Context,5
+2023-10-23,Moderate,Partisan Politics & Elections,28
+2023-10-23,Moderate,Unmapped,22
+2023-10-23,Moderate,Viral Incidents & Culture War,1
+2023-10-30,Conservative,Border Enforcement & Policy,24
+2023-10-30,Conservative,Crime & Security Narrative,31
+2023-10-30,Conservative,Economic & Social Impact,12
+2023-10-30,Conservative,Humanitarian & Asylum System,40
+2023-10-30,Conservative,Identity & Assimilation,15
+2023-10-30,Conservative,International Refugee Context,55
+2023-10-30,Conservative,Partisan Politics & Elections,48
+2023-10-30,Conservative,Unmapped,111
+2023-10-30,Conservative,Viral Incidents & Culture War,9
+2023-10-30,Liberal,Economic & Social Impact,5
+2023-10-30,Liberal,Humanitarian & Asylum System,9
+2023-10-30,Liberal,Identity & Assimilation,9
+2023-10-30,Liberal,International Refugee Context,29
+2023-10-30,Liberal,Partisan Politics & Elections,12
+2023-10-30,Liberal,Unmapped,13
+2023-10-30,Liberal,Viral Incidents & Culture War,1
+2023-10-30,Moderate,Border Enforcement & Policy,2
+2023-10-30,Moderate,Crime & Security Narrative,6
+2023-10-30,Moderate,Economic & Social Impact,9
+2023-10-30,Moderate,Humanitarian & Asylum System,7
+2023-10-30,Moderate,Identity & Assimilation,8
+2023-10-30,Moderate,International Refugee Context,28
+2023-10-30,Moderate,Partisan Politics & Elections,19
+2023-10-30,Moderate,Unmapped,23
+2023-10-30,Moderate,Viral Incidents & Culture War,2
+2023-11-06,Conservative,Border Enforcement & Policy,14
+2023-11-06,Conservative,Crime & Security Narrative,12
+2023-11-06,Conservative,Economic & Social Impact,10
+2023-11-06,Conservative,Humanitarian & Asylum System,15
+2023-11-06,Conservative,Identity & Assimilation,4
+2023-11-06,Conservative,International Refugee Context,31
+2023-11-06,Conservative,Partisan Politics & Elections,43
+2023-11-06,Conservative,Unmapped,92
+2023-11-06,Conservative,Viral Incidents & Culture War,7
+2023-11-06,Liberal,Border Enforcement & Policy,1
+2023-11-06,Liberal,Crime & Security Narrative,2
+2023-11-06,Liberal,Economic & Social Impact,1
+2023-11-06,Liberal,Humanitarian & Asylum System,2
+2023-11-06,Liberal,Identity & Assimilation,3
+2023-11-06,Liberal,International Refugee Context,8
+2023-11-06,Liberal,Partisan Politics & Elections,8
+2023-11-06,Liberal,Unmapped,15
+2023-11-06,Moderate,Economic & Social Impact,2
+2023-11-06,Moderate,Humanitarian & Asylum System,8
+2023-11-06,Moderate,Identity & Assimilation,7
+2023-11-06,Moderate,International Refugee Context,12
+2023-11-06,Moderate,Partisan Politics & Elections,11
+2023-11-06,Moderate,Unmapped,19
+2023-11-06,Moderate,Viral Incidents & Culture War,1
+2023-11-13,Conservative,Border Enforcement & Policy,20
+2023-11-13,Conservative,Crime & Security Narrative,10
+2023-11-13,Conservative,Economic & Social Impact,16
+2023-11-13,Conservative,Humanitarian & Asylum System,26
+2023-11-13,Conservative,Identity & Assimilation,24
+2023-11-13,Conservative,International Refugee Context,24
+2023-11-13,Conservative,Partisan Politics & Elections,25
+2023-11-13,Conservative,Unmapped,65
+2023-11-13,Conservative,Viral Incidents & Culture War,6
+2023-11-13,Liberal,Border Enforcement & Policy,8
+2023-11-13,Liberal,Crime & Security Narrative,6
+2023-11-13,Liberal,Economic & Social Impact,4
+2023-11-13,Liberal,Humanitarian & Asylum System,14
+2023-11-13,Liberal,Identity & Assimilation,10
+2023-11-13,Liberal,International Refugee Context,12
+2023-11-13,Liberal,Partisan Politics & Elections,20
+2023-11-13,Liberal,Unmapped,37
+2023-11-13,Liberal,Viral Incidents & Culture War,10
+2023-11-13,Moderate,Border Enforcement & Policy,6
+2023-11-13,Moderate,Crime & Security Narrative,6
+2023-11-13,Moderate,Economic & Social Impact,4
+2023-11-13,Moderate,Humanitarian & Asylum System,5
+2023-11-13,Moderate,Identity & Assimilation,7
+2023-11-13,Moderate,International Refugee Context,15
+2023-11-13,Moderate,Partisan Politics & Elections,25
+2023-11-13,Moderate,Unmapped,36
+2023-11-20,Conservative,Border Enforcement & Policy,8
+2023-11-20,Conservative,Crime & Security Narrative,8
+2023-11-20,Conservative,Economic & Social Impact,19
+2023-11-20,Conservative,Humanitarian & Asylum System,6
+2023-11-20,Conservative,Identity & Assimilation,18
+2023-11-20,Conservative,International Refugee Context,36
+2023-11-20,Conservative,Partisan Politics & Elections,16
+2023-11-20,Conservative,Unmapped,69
+2023-11-20,Conservative,Viral Incidents & Culture War,14
+2023-11-20,Liberal,Border Enforcement & Policy,5
+2023-11-20,Liberal,Economic & Social Impact,4
+2023-11-20,Liberal,Humanitarian & Asylum System,13
+2023-11-20,Liberal,Identity & Assimilation,6
+2023-11-20,Liberal,International Refugee Context,7
+2023-11-20,Liberal,Partisan Politics & Elections,19
+2023-11-20,Liberal,Unmapped,34
+2023-11-20,Liberal,Viral Incidents & Culture War,2
+2023-11-20,Moderate,Border Enforcement & Policy,2
+2023-11-20,Moderate,Crime & Security Narrative,3
+2023-11-20,Moderate,Economic & Social Impact,10
+2023-11-20,Moderate,Humanitarian & Asylum System,10
+2023-11-20,Moderate,Identity & Assimilation,8
+2023-11-20,Moderate,International Refugee Context,17
+2023-11-20,Moderate,Partisan Politics & Elections,16
+2023-11-20,Moderate,Unmapped,33
+2023-11-20,Moderate,Viral Incidents & Culture War,2
+2023-11-27,Conservative,Border Enforcement & Policy,40
+2023-11-27,Conservative,Crime & Security Narrative,27
+2023-11-27,Conservative,Economic & Social Impact,24
+2023-11-27,Conservative,Humanitarian & Asylum System,29
+2023-11-27,Conservative,Identity & Assimilation,19
+2023-11-27,Conservative,International Refugee Context,67
+2023-11-27,Conservative,Partisan Politics & Elections,68
+2023-11-27,Conservative,Unmapped,129
+2023-11-27,Conservative,Viral Incidents & Culture War,14
+2023-11-27,Liberal,Border Enforcement & Policy,2
+2023-11-27,Liberal,Economic & Social Impact,1
+2023-11-27,Liberal,Humanitarian & Asylum System,12
+2023-11-27,Liberal,Identity & Assimilation,7
+2023-11-27,Liberal,International Refugee Context,16
+2023-11-27,Liberal,Partisan Politics & Elections,12
+2023-11-27,Liberal,Unmapped,27
+2023-11-27,Liberal,Viral Incidents & Culture War,6
+2023-11-27,Moderate,Border Enforcement & Policy,12
+2023-11-27,Moderate,Crime & Security Narrative,5
+2023-11-27,Moderate,Economic & Social Impact,6
+2023-11-27,Moderate,Humanitarian & Asylum System,5
+2023-11-27,Moderate,Identity & Assimilation,9
+2023-11-27,Moderate,International Refugee Context,25
+2023-11-27,Moderate,Partisan Politics & Elections,31
+2023-11-27,Moderate,Unmapped,35
+2023-11-27,Moderate,Viral Incidents & Culture War,3
+2023-12-04,Conservative,Border Enforcement & Policy,26
+2023-12-04,Conservative,Crime & Security Narrative,11
+2023-12-04,Conservative,Economic & Social Impact,11
+2023-12-04,Conservative,Humanitarian & Asylum System,7
+2023-12-04,Conservative,Identity & Assimilation,25
+2023-12-04,Conservative,International Refugee Context,27
+2023-12-04,Conservative,Partisan Politics & Elections,57
+2023-12-04,Conservative,Unmapped,112
+2023-12-04,Conservative,Viral Incidents & Culture War,11
+2023-12-04,Liberal,Border Enforcement & Policy,4
+2023-12-04,Liberal,Crime & Security Narrative,3
+2023-12-04,Liberal,Economic & Social Impact,2
+2023-12-04,Liberal,Humanitarian & Asylum System,6
+2023-12-04,Liberal,Identity & Assimilation,5
+2023-12-04,Liberal,International Refugee Context,5
+2023-12-04,Liberal,Partisan Politics & Elections,13
+2023-12-04,Liberal,Unmapped,14
+2023-12-04,Liberal,Viral Incidents & Culture War,3
+2023-12-04,Moderate,Border Enforcement & Policy,15
+2023-12-04,Moderate,Crime & Security Narrative,10
+2023-12-04,Moderate,Humanitarian & Asylum System,17
+2023-12-04,Moderate,Identity & Assimilation,12
+2023-12-04,Moderate,International Refugee Context,25
+2023-12-04,Moderate,Partisan Politics & Elections,39
+2023-12-04,Moderate,Unmapped,40
+2023-12-04,Moderate,Viral Incidents & Culture War,5
+2023-12-11,Conservative,Border Enforcement & Policy,29
+2023-12-11,Conservative,Crime & Security Narrative,12
+2023-12-11,Conservative,Economic & Social Impact,5
+2023-12-11,Conservative,Humanitarian & Asylum System,12
+2023-12-11,Conservative,Identity & Assimilation,14
+2023-12-11,Conservative,International Refugee Context,16
+2023-12-11,Conservative,Partisan Politics & Elections,40
+2023-12-11,Conservative,Unmapped,62
+2023-12-11,Conservative,Viral Incidents & Culture War,5
+2023-12-11,Liberal,Border Enforcement & Policy,9
+2023-12-11,Liberal,Crime & Security Narrative,2
+2023-12-11,Liberal,Economic & Social Impact,3
+2023-12-11,Liberal,Humanitarian & Asylum System,6
+2023-12-11,Liberal,Identity & Assimilation,6
+2023-12-11,Liberal,International Refugee Context,7
+2023-12-11,Liberal,Partisan Politics & Elections,31
+2023-12-11,Liberal,Unmapped,15
+2023-12-11,Liberal,Viral Incidents & Culture War,8
+2023-12-11,Moderate,Border Enforcement & Policy,17
+2023-12-11,Moderate,Crime & Security Narrative,14
+2023-12-11,Moderate,Economic & Social Impact,4
+2023-12-11,Moderate,Humanitarian & Asylum System,13
+2023-12-11,Moderate,Identity & Assimilation,9
+2023-12-11,Moderate,International Refugee Context,10
+2023-12-11,Moderate,Partisan Politics & Elections,43
+2023-12-11,Moderate,Unmapped,33
+2023-12-11,Moderate,Viral Incidents & Culture War,7
+2023-12-18,Conservative,Border Enforcement & Policy,73
+2023-12-18,Conservative,Crime & Security Narrative,48
+2023-12-18,Conservative,Economic & Social Impact,21
+2023-12-18,Conservative,Humanitarian & Asylum System,24
+2023-12-18,Conservative,Identity & Assimilation,36
+2023-12-18,Conservative,International Refugee Context,22
+2023-12-18,Conservative,Partisan Politics & Elections,67
+2023-12-18,Conservative,Unmapped,192
+2023-12-18,Conservative,Viral Incidents & Culture War,52
+2023-12-18,Liberal,Border Enforcement & Policy,11
+2023-12-18,Liberal,Economic & Social Impact,1
+2023-12-18,Liberal,Humanitarian & Asylum System,2
+2023-12-18,Liberal,Identity & Assimilation,11
+2023-12-18,Liberal,International Refugee Context,1
+2023-12-18,Liberal,Partisan Politics & Elections,14
+2023-12-18,Liberal,Unmapped,39
+2023-12-18,Liberal,Viral Incidents & Culture War,33
+2023-12-18,Moderate,Border Enforcement & Policy,47
+2023-12-18,Moderate,Crime & Security Narrative,11
+2023-12-18,Moderate,Economic & Social Impact,6
+2023-12-18,Moderate,Humanitarian & Asylum System,15
+2023-12-18,Moderate,Identity & Assimilation,18
+2023-12-18,Moderate,International Refugee Context,24
+2023-12-18,Moderate,Partisan Politics & Elections,57
+2023-12-18,Moderate,Unmapped,55
+2023-12-18,Moderate,Viral Incidents & Culture War,25
+2023-12-25,Conservative,Border Enforcement & Policy,57
+2023-12-25,Conservative,Crime & Security Narrative,41
+2023-12-25,Conservative,Economic & Social Impact,23
+2023-12-25,Conservative,Humanitarian & Asylum System,5
+2023-12-25,Conservative,Identity & Assimilation,17
+2023-12-25,Conservative,International Refugee Context,11
+2023-12-25,Conservative,Partisan Politics & Elections,35
+2023-12-25,Conservative,Unmapped,140
+2023-12-25,Conservative,Viral Incidents & Culture War,9
+2023-12-25,Liberal,Border Enforcement & Policy,4
+2023-12-25,Liberal,Economic & Social Impact,1
+2023-12-25,Liberal,Humanitarian & Asylum System,4
+2023-12-25,Liberal,Identity & Assimilation,5
+2023-12-25,Liberal,International Refugee Context,8
+2023-12-25,Liberal,Partisan Politics & Elections,10
+2023-12-25,Liberal,Unmapped,7
+2023-12-25,Liberal,Viral Incidents & Culture War,6
+2023-12-25,Moderate,Border Enforcement & Policy,22
+2023-12-25,Moderate,Crime & Security Narrative,1
+2023-12-25,Moderate,Economic & Social Impact,11
+2023-12-25,Moderate,Humanitarian & Asylum System,13
+2023-12-25,Moderate,Identity & Assimilation,5
+2023-12-25,Moderate,International Refugee Context,25
+2023-12-25,Moderate,Partisan Politics & Elections,9
+2023-12-25,Moderate,Unmapped,40
+2023-12-25,Moderate,Viral Incidents & Culture War,3
+2024-01-01,Conservative,Border Enforcement & Policy,68
+2024-01-01,Conservative,Crime & Security Narrative,54
+2024-01-01,Conservative,Economic & Social Impact,19
+2024-01-01,Conservative,Humanitarian & Asylum System,49
+2024-01-01,Conservative,Identity & Assimilation,55
+2024-01-01,Conservative,International Refugee Context,16
+2024-01-01,Conservative,Partisan Politics & Elections,46
+2024-01-01,Conservative,Unmapped,205
+2024-01-01,Conservative,Viral Incidents & Culture War,21
+2024-01-01,Liberal,Border Enforcement & Policy,14
+2024-01-01,Liberal,Crime & Security Narrative,6
+2024-01-01,Liberal,Economic & Social Impact,3
+2024-01-01,Liberal,Humanitarian & Asylum System,10
+2024-01-01,Liberal,Identity & Assimilation,7
+2024-01-01,Liberal,International Refugee Context,4
+2024-01-01,Liberal,Partisan Politics & Elections,35
+2024-01-01,Liberal,Unmapped,35
+2024-01-01,Liberal,Viral Incidents & Culture War,14
+2024-01-01,Moderate,Border Enforcement & Policy,16
+2024-01-01,Moderate,Crime & Security Narrative,7
+2024-01-01,Moderate,Economic & Social Impact,5
+2024-01-01,Moderate,Humanitarian & Asylum System,8
+2024-01-01,Moderate,Identity & Assimilation,7
+2024-01-01,Moderate,International Refugee Context,10
+2024-01-01,Moderate,Partisan Politics & Elections,22
+2024-01-01,Moderate,Unmapped,29
+2024-01-01,Moderate,Viral Incidents & Culture War,5
+2024-01-08,Conservative,Border Enforcement & Policy,41
+2024-01-08,Conservative,Crime & Security Narrative,17
+2024-01-08,Conservative,Economic & Social Impact,60
+2024-01-08,Conservative,Humanitarian & Asylum System,47
+2024-01-08,Conservative,Identity & Assimilation,36
+2024-01-08,Conservative,International Refugee Context,20
+2024-01-08,Conservative,Partisan Politics & Elections,60
+2024-01-08,Conservative,Unmapped,190
+2024-01-08,Conservative,Viral Incidents & Culture War,12
+2024-01-08,Liberal,Border Enforcement & Policy,7
+2024-01-08,Liberal,Economic & Social Impact,4
+2024-01-08,Liberal,Humanitarian & Asylum System,6
+2024-01-08,Liberal,Identity & Assimilation,10
+2024-01-08,Liberal,International Refugee Context,4
+2024-01-08,Liberal,Partisan Politics & Elections,27
+2024-01-08,Liberal,Unmapped,38
+2024-01-08,Liberal,Viral Incidents & Culture War,6
+2024-01-08,Moderate,Border Enforcement & Policy,16
+2024-01-08,Moderate,Crime & Security Narrative,4
+2024-01-08,Moderate,Economic & Social Impact,2
+2024-01-08,Moderate,Humanitarian & Asylum System,8
+2024-01-08,Moderate,Identity & Assimilation,2
+2024-01-08,Moderate,International Refugee Context,8
+2024-01-08,Moderate,Partisan Politics & Elections,25
+2024-01-08,Moderate,Unmapped,22
+2024-01-08,Moderate,Viral Incidents & Culture War,6
+2024-01-15,Conservative,Border Enforcement & Policy,58
+2024-01-15,Conservative,Crime & Security Narrative,24
+2024-01-15,Conservative,Economic & Social Impact,29
+2024-01-15,Conservative,Humanitarian & Asylum System,35
+2024-01-15,Conservative,Identity & Assimilation,63
+2024-01-15,Conservative,International Refugee Context,12
+2024-01-15,Conservative,Partisan Politics & Elections,82
+2024-01-15,Conservative,Unmapped,196
+2024-01-15,Conservative,Viral Incidents & Culture War,22
+2024-01-15,Liberal,Border Enforcement & Policy,13
+2024-01-15,Liberal,Crime & Security Narrative,1
+2024-01-15,Liberal,Economic & Social Impact,5
+2024-01-15,Liberal,Humanitarian & Asylum System,6
+2024-01-15,Liberal,Identity & Assimilation,10
+2024-01-15,Liberal,International Refugee Context,10
+2024-01-15,Liberal,Partisan Politics & Elections,36
+2024-01-15,Liberal,Unmapped,37
+2024-01-15,Liberal,Viral Incidents & Culture War,19
+2024-01-15,Moderate,Border Enforcement & Policy,8
+2024-01-15,Moderate,Crime & Security Narrative,7
+2024-01-15,Moderate,Economic & Social Impact,8
+2024-01-15,Moderate,Humanitarian & Asylum System,14
+2024-01-15,Moderate,Identity & Assimilation,5
+2024-01-15,Moderate,International Refugee Context,7
+2024-01-15,Moderate,Partisan Politics & Elections,37
+2024-01-15,Moderate,Unmapped,49
+2024-01-15,Moderate,Viral Incidents & Culture War,5
+2024-01-22,Conservative,Border Enforcement & Policy,122
+2024-01-22,Conservative,Crime & Security Narrative,44
+2024-01-22,Conservative,Economic & Social Impact,24
+2024-01-22,Conservative,Humanitarian & Asylum System,29
+2024-01-22,Conservative,Identity & Assimilation,38
+2024-01-22,Conservative,International Refugee Context,18
+2024-01-22,Conservative,Partisan Politics & Elections,130
+2024-01-22,Conservative,Unmapped,202
+2024-01-22,Conservative,Viral Incidents & Culture War,28
+2024-01-22,Liberal,Border Enforcement & Policy,14
+2024-01-22,Liberal,Crime & Security Narrative,5
+2024-01-22,Liberal,Economic & Social Impact,9
+2024-01-22,Liberal,Humanitarian & Asylum System,20
+2024-01-22,Liberal,Identity & Assimilation,13
+2024-01-22,Liberal,International Refugee Context,14
+2024-01-22,Liberal,Partisan Politics & Elections,43
+2024-01-22,Liberal,Unmapped,40
+2024-01-22,Liberal,Viral Incidents & Culture War,17
+2024-01-22,Moderate,Border Enforcement & Policy,39
+2024-01-22,Moderate,Crime & Security Narrative,6
+2024-01-22,Moderate,Economic & Social Impact,11
+2024-01-22,Moderate,Humanitarian & Asylum System,7
+2024-01-22,Moderate,Identity & Assimilation,6
+2024-01-22,Moderate,International Refugee Context,9
+2024-01-22,Moderate,Partisan Politics & Elections,57
+2024-01-22,Moderate,Unmapped,45
+2024-01-22,Moderate,Viral Incidents & Culture War,2
+2024-01-29,Conservative,Border Enforcement & Policy,96
+2024-01-29,Conservative,Crime & Security Narrative,126
+2024-01-29,Conservative,Economic & Social Impact,17
+2024-01-29,Conservative,Humanitarian & Asylum System,65
+2024-01-29,Conservative,Identity & Assimilation,42
+2024-01-29,Conservative,International Refugee Context,36
+2024-01-29,Conservative,Partisan Politics & Elections,103
+2024-01-29,Conservative,Unmapped,258
+2024-01-29,Conservative,Viral Incidents & Culture War,21
+2024-01-29,Liberal,Border Enforcement & Policy,42
+2024-01-29,Liberal,Crime & Security Narrative,14
+2024-01-29,Liberal,Humanitarian & Asylum System,19
+2024-01-29,Liberal,Identity & Assimilation,12
+2024-01-29,Liberal,International Refugee Context,15
+2024-01-29,Liberal,Partisan Politics & Elections,49
+2024-01-29,Liberal,Unmapped,77
+2024-01-29,Liberal,Viral Incidents & Culture War,6
+2024-01-29,Moderate,Border Enforcement & Policy,72
+2024-01-29,Moderate,Crime & Security Narrative,10
+2024-01-29,Moderate,Economic & Social Impact,4
+2024-01-29,Moderate,Humanitarian & Asylum System,33
+2024-01-29,Moderate,Identity & Assimilation,7
+2024-01-29,Moderate,International Refugee Context,20
+2024-01-29,Moderate,Partisan Politics & Elections,80
+2024-01-29,Moderate,Unmapped,109
+2024-01-29,Moderate,Viral Incidents & Culture War,11
+2024-02-05,Conservative,Border Enforcement & Policy,145
+2024-02-05,Conservative,Crime & Security Narrative,117
+2024-02-05,Conservative,Economic & Social Impact,56
+2024-02-05,Conservative,Humanitarian & Asylum System,53
+2024-02-05,Conservative,Identity & Assimilation,48
+2024-02-05,Conservative,International Refugee Context,11
+2024-02-05,Conservative,Partisan Politics & Elections,146
+2024-02-05,Conservative,Unmapped,334
+2024-02-05,Conservative,Viral Incidents & Culture War,19
+2024-02-05,Liberal,Border Enforcement & Policy,34
+2024-02-05,Liberal,Crime & Security Narrative,14
+2024-02-05,Liberal,Economic & Social Impact,11
+2024-02-05,Liberal,Humanitarian & Asylum System,24
+2024-02-05,Liberal,Identity & Assimilation,12
+2024-02-05,Liberal,International Refugee Context,18
+2024-02-05,Liberal,Partisan Politics & Elections,86
+2024-02-05,Liberal,Unmapped,90
+2024-02-05,Liberal,Viral Incidents & Culture War,6
+2024-02-05,Moderate,Border Enforcement & Policy,22
+2024-02-05,Moderate,Crime & Security Narrative,13
+2024-02-05,Moderate,Economic & Social Impact,11
+2024-02-05,Moderate,Humanitarian & Asylum System,18
+2024-02-05,Moderate,Identity & Assimilation,18
+2024-02-05,Moderate,International Refugee Context,17
+2024-02-05,Moderate,Partisan Politics & Elections,63
+2024-02-05,Moderate,Unmapped,84
+2024-02-05,Moderate,Viral Incidents & Culture War,2
+2024-02-12,Conservative,Border Enforcement & Policy,37
+2024-02-12,Conservative,Crime & Security Narrative,41
+2024-02-12,Conservative,Economic & Social Impact,21
+2024-02-12,Conservative,Humanitarian & Asylum System,34
+2024-02-12,Conservative,Identity & Assimilation,31
+2024-02-12,Conservative,International Refugee Context,23
+2024-02-12,Conservative,Partisan Politics & Elections,68
+2024-02-12,Conservative,Unmapped,151
+2024-02-12,Conservative,Viral Incidents & Culture War,20
+2024-02-12,Liberal,Border Enforcement & Policy,24
+2024-02-12,Liberal,Crime & Security Narrative,7
+2024-02-12,Liberal,Economic & Social Impact,8
+2024-02-12,Liberal,Humanitarian & Asylum System,14
+2024-02-12,Liberal,Identity & Assimilation,20
+2024-02-12,Liberal,International Refugee Context,8
+2024-02-12,Liberal,Partisan Politics & Elections,49
+2024-02-12,Liberal,Unmapped,93
+2024-02-12,Liberal,Viral Incidents & Culture War,11
+2024-02-12,Moderate,Border Enforcement & Policy,20
+2024-02-12,Moderate,Crime & Security Narrative,10
+2024-02-12,Moderate,Economic & Social Impact,5
+2024-02-12,Moderate,Humanitarian & Asylum System,8
+2024-02-12,Moderate,Identity & Assimilation,12
+2024-02-12,Moderate,International Refugee Context,31
+2024-02-12,Moderate,Partisan Politics & Elections,63
+2024-02-12,Moderate,Unmapped,75
+2024-02-12,Moderate,Viral Incidents & Culture War,7
+2024-02-19,Conservative,Border Enforcement & Policy,48
+2024-02-19,Conservative,Crime & Security Narrative,60
+2024-02-19,Conservative,Economic & Social Impact,43
+2024-02-19,Conservative,Humanitarian & Asylum System,42
+2024-02-19,Conservative,Identity & Assimilation,38
+2024-02-19,Conservative,International Refugee Context,14
+2024-02-19,Conservative,Partisan Politics & Elections,80
+2024-02-19,Conservative,Unmapped,224
+2024-02-19,Conservative,Viral Incidents & Culture War,16
+2024-02-19,Liberal,Border Enforcement & Policy,13
+2024-02-19,Liberal,Crime & Security Narrative,17
+2024-02-19,Liberal,Economic & Social Impact,21
+2024-02-19,Liberal,Humanitarian & Asylum System,7
+2024-02-19,Liberal,Identity & Assimilation,13
+2024-02-19,Liberal,International Refugee Context,14
+2024-02-19,Liberal,Partisan Politics & Elections,26
+2024-02-19,Liberal,Unmapped,52
+2024-02-19,Liberal,Viral Incidents & Culture War,8
+2024-02-19,Moderate,Border Enforcement & Policy,22
+2024-02-19,Moderate,Crime & Security Narrative,13
+2024-02-19,Moderate,Humanitarian & Asylum System,4
+2024-02-19,Moderate,Identity & Assimilation,5
+2024-02-19,Moderate,International Refugee Context,8
+2024-02-19,Moderate,Partisan Politics & Elections,28
+2024-02-19,Moderate,Unmapped,29
+2024-02-19,Moderate,Viral Incidents & Culture War,4
+2024-02-26,Conservative,Border Enforcement & Policy,80
+2024-02-26,Conservative,Crime & Security Narrative,248
+2024-02-26,Conservative,Economic & Social Impact,38
+2024-02-26,Conservative,Humanitarian & Asylum System,53
+2024-02-26,Conservative,Identity & Assimilation,61
+2024-02-26,Conservative,International Refugee Context,40
+2024-02-26,Conservative,Partisan Politics & Elections,177
+2024-02-26,Conservative,Unmapped,294
+2024-02-26,Conservative,Viral Incidents & Culture War,13
+2024-02-26,Liberal,Border Enforcement & Policy,28
+2024-02-26,Liberal,Crime & Security Narrative,26
+2024-02-26,Liberal,Economic & Social Impact,7
+2024-02-26,Liberal,Humanitarian & Asylum System,30
+2024-02-26,Liberal,Identity & Assimilation,9
+2024-02-26,Liberal,International Refugee Context,7
+2024-02-26,Liberal,Partisan Politics & Elections,38
+2024-02-26,Liberal,Unmapped,72
+2024-02-26,Liberal,Viral Incidents & Culture War,8
+2024-02-26,Moderate,Border Enforcement & Policy,24
+2024-02-26,Moderate,Crime & Security Narrative,36
+2024-02-26,Moderate,Economic & Social Impact,11
+2024-02-26,Moderate,Humanitarian & Asylum System,9
+2024-02-26,Moderate,Identity & Assimilation,8
+2024-02-26,Moderate,International Refugee Context,10
+2024-02-26,Moderate,Partisan Politics & Elections,62
+2024-02-26,Moderate,Unmapped,72
+2024-02-26,Moderate,Viral Incidents & Culture War,3
+2024-03-04,Conservative,Border Enforcement & Policy,52
+2024-03-04,Conservative,Crime & Security Narrative,110
+2024-03-04,Conservative,Economic & Social Impact,37
+2024-03-04,Conservative,Humanitarian & Asylum System,42
+2024-03-04,Conservative,Identity & Assimilation,73
+2024-03-04,Conservative,International Refugee Context,32
+2024-03-04,Conservative,Partisan Politics & Elections,197
+2024-03-04,Conservative,Unmapped,222
+2024-03-04,Conservative,Viral Incidents & Culture War,43
+2024-03-04,Liberal,Border Enforcement & Policy,9
+2024-03-04,Liberal,Crime & Security Narrative,8
+2024-03-04,Liberal,Economic & Social Impact,6
+2024-03-04,Liberal,Humanitarian & Asylum System,7
+2024-03-04,Liberal,Identity & Assimilation,13
+2024-03-04,Liberal,International Refugee Context,9
+2024-03-04,Liberal,Partisan Politics & Elections,37
+2024-03-04,Liberal,Unmapped,29
+2024-03-04,Liberal,Viral Incidents & Culture War,9
+2024-03-04,Moderate,Border Enforcement & Policy,14
+2024-03-04,Moderate,Crime & Security Narrative,14
+2024-03-04,Moderate,Economic & Social Impact,2
+2024-03-04,Moderate,Humanitarian & Asylum System,4
+2024-03-04,Moderate,Identity & Assimilation,6
+2024-03-04,Moderate,International Refugee Context,6
+2024-03-04,Moderate,Partisan Politics & Elections,67
+2024-03-04,Moderate,Unmapped,24
+2024-03-04,Moderate,Viral Incidents & Culture War,1
+2024-03-11,Conservative,Border Enforcement & Policy,33
+2024-03-11,Conservative,Crime & Security Narrative,76
+2024-03-11,Conservative,Economic & Social Impact,18
+2024-03-11,Conservative,Humanitarian & Asylum System,36
+2024-03-11,Conservative,Identity & Assimilation,83
+2024-03-11,Conservative,International Refugee Context,22
+2024-03-11,Conservative,Partisan Politics & Elections,127
+2024-03-11,Conservative,Unmapped,223
+2024-03-11,Conservative,Viral Incidents & Culture War,94
+2024-03-11,Liberal,Border Enforcement & Policy,7
+2024-03-11,Liberal,Crime & Security Narrative,5
+2024-03-11,Liberal,Economic & Social Impact,3
+2024-03-11,Liberal,Humanitarian & Asylum System,4
+2024-03-11,Liberal,Identity & Assimilation,10
+2024-03-11,Liberal,International Refugee Context,8
+2024-03-11,Liberal,Partisan Politics & Elections,32
+2024-03-11,Liberal,Unmapped,41
+2024-03-11,Liberal,Viral Incidents & Culture War,6
+2024-03-11,Moderate,Border Enforcement & Policy,9
+2024-03-11,Moderate,Crime & Security Narrative,12
+2024-03-11,Moderate,Economic & Social Impact,16
+2024-03-11,Moderate,Humanitarian & Asylum System,11
+2024-03-11,Moderate,Identity & Assimilation,19
+2024-03-11,Moderate,International Refugee Context,19
+2024-03-11,Moderate,Partisan Politics & Elections,31
+2024-03-11,Moderate,Unmapped,66
+2024-03-11,Moderate,Viral Incidents & Culture War,16
+2024-03-18,Conservative,Border Enforcement & Policy,127
+2024-03-18,Conservative,Crime & Security Narrative,48
+2024-03-18,Conservative,Economic & Social Impact,22
+2024-03-18,Conservative,Humanitarian & Asylum System,21
+2024-03-18,Conservative,Identity & Assimilation,37
+2024-03-18,Conservative,International Refugee Context,22
+2024-03-18,Conservative,Partisan Politics & Elections,104
+2024-03-18,Conservative,Unmapped,160
+2024-03-18,Conservative,Viral Incidents & Culture War,17
+2024-03-18,Liberal,Border Enforcement & Policy,38
+2024-03-18,Liberal,Crime & Security Narrative,17
+2024-03-18,Liberal,Economic & Social Impact,8
+2024-03-18,Liberal,Humanitarian & Asylum System,10
+2024-03-18,Liberal,Identity & Assimilation,14
+2024-03-18,Liberal,International Refugee Context,10
+2024-03-18,Liberal,Partisan Politics & Elections,37
+2024-03-18,Liberal,Unmapped,60
+2024-03-18,Liberal,Viral Incidents & Culture War,8
+2024-03-18,Moderate,Border Enforcement & Policy,79
+2024-03-18,Moderate,Crime & Security Narrative,34
+2024-03-18,Moderate,Economic & Social Impact,7
+2024-03-18,Moderate,Humanitarian & Asylum System,10
+2024-03-18,Moderate,Identity & Assimilation,7
+2024-03-18,Moderate,International Refugee Context,13
+2024-03-18,Moderate,Partisan Politics & Elections,43
+2024-03-18,Moderate,Unmapped,93
+2024-03-18,Moderate,Viral Incidents & Culture War,13
+2024-03-25,Conservative,Border Enforcement & Policy,40
+2024-03-25,Conservative,Crime & Security Narrative,93
+2024-03-25,Conservative,Economic & Social Impact,9
+2024-03-25,Conservative,Humanitarian & Asylum System,21
+2024-03-25,Conservative,Identity & Assimilation,42
+2024-03-25,Conservative,International Refugee Context,18
+2024-03-25,Conservative,Partisan Politics & Elections,136
+2024-03-25,Conservative,Unmapped,157
+2024-03-25,Conservative,Viral Incidents & Culture War,19
+2024-03-25,Liberal,Border Enforcement & Policy,5
+2024-03-25,Liberal,Crime & Security Narrative,7
+2024-03-25,Liberal,Economic & Social Impact,19
+2024-03-25,Liberal,Humanitarian & Asylum System,2
+2024-03-25,Liberal,Identity & Assimilation,20
+2024-03-25,Liberal,International Refugee Context,5
+2024-03-25,Liberal,Partisan Politics & Elections,30
+2024-03-25,Liberal,Unmapped,65
+2024-03-25,Liberal,Viral Incidents & Culture War,6
+2024-03-25,Moderate,Border Enforcement & Policy,2
+2024-03-25,Moderate,Crime & Security Narrative,1
+2024-03-25,Moderate,Economic & Social Impact,3
+2024-03-25,Moderate,Humanitarian & Asylum System,6
+2024-03-25,Moderate,Identity & Assimilation,4
+2024-03-25,Moderate,International Refugee Context,3
+2024-03-25,Moderate,Partisan Politics & Elections,9
+2024-03-25,Moderate,Unmapped,19
+2024-03-25,Moderate,Viral Incidents & Culture War,7
+2024-04-01,Conservative,Border Enforcement & Policy,48
+2024-04-01,Conservative,Crime & Security Narrative,86
+2024-04-01,Conservative,Economic & Social Impact,30
+2024-04-01,Conservative,Humanitarian & Asylum System,20
+2024-04-01,Conservative,Identity & Assimilation,39
+2024-04-01,Conservative,International Refugee Context,13
+2024-04-01,Conservative,Partisan Politics & Elections,94
+2024-04-01,Conservative,Unmapped,208
+2024-04-01,Conservative,Viral Incidents & Culture War,17
+2024-04-01,Liberal,Border Enforcement & Policy,10
+2024-04-01,Liberal,Crime & Security Narrative,15
+2024-04-01,Liberal,Economic & Social Impact,2
+2024-04-01,Liberal,Humanitarian & Asylum System,7
+2024-04-01,Liberal,Identity & Assimilation,10
+2024-04-01,Liberal,International Refugee Context,6
+2024-04-01,Liberal,Partisan Politics & Elections,41
+2024-04-01,Liberal,Unmapped,39
+2024-04-01,Liberal,Viral Incidents & Culture War,4
+2024-04-01,Moderate,Border Enforcement & Policy,10
+2024-04-01,Moderate,Crime & Security Narrative,11
+2024-04-01,Moderate,Economic & Social Impact,1
+2024-04-01,Moderate,Humanitarian & Asylum System,4
+2024-04-01,Moderate,Identity & Assimilation,4
+2024-04-01,Moderate,International Refugee Context,7
+2024-04-01,Moderate,Partisan Politics & Elections,16
+2024-04-01,Moderate,Unmapped,23
+2024-04-01,Moderate,Viral Incidents & Culture War,13
+2024-04-08,Conservative,Border Enforcement & Policy,46
+2024-04-08,Conservative,Crime & Security Narrative,95
+2024-04-08,Conservative,Economic & Social Impact,28
+2024-04-08,Conservative,Humanitarian & Asylum System,12
+2024-04-08,Conservative,Identity & Assimilation,18
+2024-04-08,Conservative,International Refugee Context,5
+2024-04-08,Conservative,Partisan Politics & Elections,82
+2024-04-08,Conservative,Unmapped,140
+2024-04-08,Conservative,Viral Incidents & Culture War,32
+2024-04-08,Liberal,Border Enforcement & Policy,28
+2024-04-08,Liberal,Crime & Security Narrative,20
+2024-04-08,Liberal,Economic & Social Impact,10
+2024-04-08,Liberal,Humanitarian & Asylum System,32
+2024-04-08,Liberal,Identity & Assimilation,39
+2024-04-08,Liberal,International Refugee Context,11
+2024-04-08,Liberal,Partisan Politics & Elections,42
+2024-04-08,Liberal,Unmapped,145
+2024-04-08,Liberal,Viral Incidents & Culture War,6
+2024-04-08,Moderate,Border Enforcement & Policy,8
+2024-04-08,Moderate,Crime & Security Narrative,11
+2024-04-08,Moderate,Economic & Social Impact,1
+2024-04-08,Moderate,Humanitarian & Asylum System,3
+2024-04-08,Moderate,Identity & Assimilation,7
+2024-04-08,Moderate,International Refugee Context,18
+2024-04-08,Moderate,Partisan Politics & Elections,16
+2024-04-08,Moderate,Unmapped,17
+2024-04-08,Moderate,Viral Incidents & Culture War,5
+2024-04-15,Conservative,Border Enforcement & Policy,33
+2024-04-15,Conservative,Crime & Security Narrative,34
+2024-04-15,Conservative,Economic & Social Impact,12
+2024-04-15,Conservative,Humanitarian & Asylum System,12
+2024-04-15,Conservative,Identity & Assimilation,21
+2024-04-15,Conservative,International Refugee Context,19
+2024-04-15,Conservative,Partisan Politics & Elections,63
+2024-04-15,Conservative,Unmapped,145
+2024-04-15,Conservative,Viral Incidents & Culture War,4
+2024-04-15,Liberal,Border Enforcement & Policy,8
+2024-04-15,Liberal,Crime & Security Narrative,3
+2024-04-15,Liberal,Economic & Social Impact,5
+2024-04-15,Liberal,Humanitarian & Asylum System,6
+2024-04-15,Liberal,Identity & Assimilation,13
+2024-04-15,Liberal,International Refugee Context,5
+2024-04-15,Liberal,Partisan Politics & Elections,20
+2024-04-15,Liberal,Unmapped,24
+2024-04-15,Liberal,Viral Incidents & Culture War,5
+2024-04-15,Moderate,Border Enforcement & Policy,7
+2024-04-15,Moderate,Crime & Security Narrative,28
+2024-04-15,Moderate,Economic & Social Impact,7
+2024-04-15,Moderate,Humanitarian & Asylum System,8
+2024-04-15,Moderate,Identity & Assimilation,9
+2024-04-15,Moderate,International Refugee Context,24
+2024-04-15,Moderate,Partisan Politics & Elections,16
+2024-04-15,Moderate,Unmapped,54
+2024-04-15,Moderate,Viral Incidents & Culture War,2
+2024-04-22,Conservative,Border Enforcement & Policy,15
+2024-04-22,Conservative,Crime & Security Narrative,17
+2024-04-22,Conservative,Economic & Social Impact,15
+2024-04-22,Conservative,Humanitarian & Asylum System,7
+2024-04-22,Conservative,Identity & Assimilation,21
+2024-04-22,Conservative,International Refugee Context,8
+2024-04-22,Conservative,Partisan Politics & Elections,44
+2024-04-22,Conservative,Unmapped,54
+2024-04-22,Conservative,Viral Incidents & Culture War,6
+2024-04-22,Liberal,Border Enforcement & Policy,2
+2024-04-22,Liberal,Economic & Social Impact,3
+2024-04-22,Liberal,Identity & Assimilation,1
+2024-04-22,Liberal,Partisan Politics & Elections,15
+2024-04-22,Liberal,Unmapped,14
+2024-04-22,Liberal,Viral Incidents & Culture War,2
+2024-04-22,Moderate,Border Enforcement & Policy,10
+2024-04-22,Moderate,Crime & Security Narrative,10
+2024-04-22,Moderate,Economic & Social Impact,2
+2024-04-22,Moderate,Humanitarian & Asylum System,3
+2024-04-22,Moderate,Identity & Assimilation,14
+2024-04-22,Moderate,International Refugee Context,11
+2024-04-22,Moderate,Partisan Politics & Elections,26
+2024-04-22,Moderate,Unmapped,35
+2024-04-29,Conservative,Border Enforcement & Policy,19
+2024-04-29,Conservative,Crime & Security Narrative,18
+2024-04-29,Conservative,Economic & Social Impact,23
+2024-04-29,Conservative,Humanitarian & Asylum System,21
+2024-04-29,Conservative,Identity & Assimilation,36
+2024-04-29,Conservative,International Refugee Context,75
+2024-04-29,Conservative,Partisan Politics & Elections,64
+2024-04-29,Conservative,Unmapped,100
+2024-04-29,Conservative,Viral Incidents & Culture War,13
+2024-04-29,Liberal,Border Enforcement & Policy,4
+2024-04-29,Liberal,Economic & Social Impact,9
+2024-04-29,Liberal,Humanitarian & Asylum System,5
+2024-04-29,Liberal,Identity & Assimilation,10
+2024-04-29,Liberal,International Refugee Context,24
+2024-04-29,Liberal,Partisan Politics & Elections,13
+2024-04-29,Liberal,Unmapped,22
+2024-04-29,Liberal,Viral Incidents & Culture War,2
+2024-04-29,Moderate,Border Enforcement & Policy,4
+2024-04-29,Moderate,Crime & Security Narrative,6
+2024-04-29,Moderate,Economic & Social Impact,6
+2024-04-29,Moderate,Humanitarian & Asylum System,14
+2024-04-29,Moderate,Identity & Assimilation,5
+2024-04-29,Moderate,International Refugee Context,29
+2024-04-29,Moderate,Partisan Politics & Elections,19
+2024-04-29,Moderate,Unmapped,21
+2024-05-06,Conservative,Border Enforcement & Policy,25
+2024-05-06,Conservative,Crime & Security Narrative,33
+2024-05-06,Conservative,Economic & Social Impact,31
+2024-05-06,Conservative,Humanitarian & Asylum System,11
+2024-05-06,Conservative,Identity & Assimilation,40
+2024-05-06,Conservative,International Refugee Context,30
+2024-05-06,Conservative,Partisan Politics & Elections,132
+2024-05-06,Conservative,Unmapped,127
+2024-05-06,Conservative,Viral Incidents & Culture War,3
+2024-05-06,Liberal,Border Enforcement & Policy,10
+2024-05-06,Liberal,Crime & Security Narrative,10
+2024-05-06,Liberal,Economic & Social Impact,8
+2024-05-06,Liberal,Humanitarian & Asylum System,8
+2024-05-06,Liberal,Identity & Assimilation,15
+2024-05-06,Liberal,International Refugee Context,12
+2024-05-06,Liberal,Partisan Politics & Elections,62
+2024-05-06,Liberal,Unmapped,51
+2024-05-06,Liberal,Viral Incidents & Culture War,9
+2024-05-06,Moderate,Border Enforcement & Policy,6
+2024-05-06,Moderate,Crime & Security Narrative,3
+2024-05-06,Moderate,Economic & Social Impact,1
+2024-05-06,Moderate,Humanitarian & Asylum System,3
+2024-05-06,Moderate,Identity & Assimilation,2
+2024-05-06,Moderate,International Refugee Context,14
+2024-05-06,Moderate,Partisan Politics & Elections,17
+2024-05-06,Moderate,Unmapped,21
+2024-05-06,Moderate,Viral Incidents & Culture War,3
+2024-05-13,Conservative,Border Enforcement & Policy,36
+2024-05-13,Conservative,Crime & Security Narrative,23
+2024-05-13,Conservative,Economic & Social Impact,16
+2024-05-13,Conservative,Humanitarian & Asylum System,17
+2024-05-13,Conservative,Identity & Assimilation,22
+2024-05-13,Conservative,International Refugee Context,15
+2024-05-13,Conservative,Partisan Politics & Elections,62
+2024-05-13,Conservative,Unmapped,85
+2024-05-13,Conservative,Viral Incidents & Culture War,1
+2024-05-13,Liberal,Border Enforcement & Policy,5
+2024-05-13,Liberal,Humanitarian & Asylum System,10
+2024-05-13,Liberal,Identity & Assimilation,8
+2024-05-13,Liberal,International Refugee Context,3
+2024-05-13,Liberal,Partisan Politics & Elections,41
+2024-05-13,Liberal,Unmapped,21
+2024-05-13,Moderate,Border Enforcement & Policy,20
+2024-05-13,Moderate,Crime & Security Narrative,15
+2024-05-13,Moderate,Economic & Social Impact,10
+2024-05-13,Moderate,Humanitarian & Asylum System,17
+2024-05-13,Moderate,Identity & Assimilation,5
+2024-05-13,Moderate,International Refugee Context,21
+2024-05-13,Moderate,Partisan Politics & Elections,46
+2024-05-13,Moderate,Unmapped,53
+2024-05-13,Moderate,Viral Incidents & Culture War,6
+2024-05-20,Conservative,Border Enforcement & Policy,26
+2024-05-20,Conservative,Crime & Security Narrative,23
+2024-05-20,Conservative,Economic & Social Impact,18
+2024-05-20,Conservative,Humanitarian & Asylum System,5
+2024-05-20,Conservative,Identity & Assimilation,20
+2024-05-20,Conservative,International Refugee Context,6
+2024-05-20,Conservative,Partisan Politics & Elections,79
+2024-05-20,Conservative,Unmapped,87
+2024-05-20,Conservative,Viral Incidents & Culture War,6
+2024-05-20,Liberal,Border Enforcement & Policy,5
+2024-05-20,Liberal,Crime & Security Narrative,6
+2024-05-20,Liberal,Economic & Social Impact,5
+2024-05-20,Liberal,Humanitarian & Asylum System,1
+2024-05-20,Liberal,Identity & Assimilation,12
+2024-05-20,Liberal,International Refugee Context,4
+2024-05-20,Liberal,Partisan Politics & Elections,14
+2024-05-20,Liberal,Unmapped,16
+2024-05-20,Liberal,Viral Incidents & Culture War,8
+2024-05-20,Moderate,Border Enforcement & Policy,11
+2024-05-20,Moderate,Crime & Security Narrative,8
+2024-05-20,Moderate,Economic & Social Impact,5
+2024-05-20,Moderate,Humanitarian & Asylum System,4
+2024-05-20,Moderate,Identity & Assimilation,6
+2024-05-20,Moderate,International Refugee Context,15
+2024-05-20,Moderate,Partisan Politics & Elections,21
+2024-05-20,Moderate,Unmapped,29
+2024-05-20,Moderate,Viral Incidents & Culture War,1
+2024-05-27,Conservative,Border Enforcement & Policy,17
+2024-05-27,Conservative,Crime & Security Narrative,26
+2024-05-27,Conservative,Economic & Social Impact,10
+2024-05-27,Conservative,Humanitarian & Asylum System,7
+2024-05-27,Conservative,Identity & Assimilation,20
+2024-05-27,Conservative,International Refugee Context,20
+2024-05-27,Conservative,Partisan Politics & Elections,33
+2024-05-27,Conservative,Unmapped,55
+2024-05-27,Conservative,Viral Incidents & Culture War,1
+2024-05-27,Liberal,Border Enforcement & Policy,3
+2024-05-27,Liberal,Crime & Security Narrative,5
+2024-05-27,Liberal,Economic & Social Impact,14
+2024-05-27,Liberal,Humanitarian & Asylum System,6
+2024-05-27,Liberal,Identity & Assimilation,20
+2024-05-27,Liberal,International Refugee Context,4
+2024-05-27,Liberal,Partisan Politics & Elections,18
+2024-05-27,Liberal,Unmapped,30
+2024-05-27,Liberal,Viral Incidents & Culture War,1
+2024-05-27,Moderate,Border Enforcement & Policy,6
+2024-05-27,Moderate,Crime & Security Narrative,2
+2024-05-27,Moderate,Economic & Social Impact,2
+2024-05-27,Moderate,Humanitarian & Asylum System,6
+2024-05-27,Moderate,Identity & Assimilation,2
+2024-05-27,Moderate,International Refugee Context,12
+2024-05-27,Moderate,Partisan Politics & Elections,14
+2024-05-27,Moderate,Unmapped,18
+2024-05-27,Moderate,Viral Incidents & Culture War,2
+2024-06-03,Conservative,Border Enforcement & Policy,91
+2024-06-03,Conservative,Crime & Security Narrative,44
+2024-06-03,Conservative,Economic & Social Impact,24
+2024-06-03,Conservative,Humanitarian & Asylum System,44
+2024-06-03,Conservative,Identity & Assimilation,30
+2024-06-03,Conservative,International Refugee Context,22
+2024-06-03,Conservative,Partisan Politics & Elections,174
+2024-06-03,Conservative,Unmapped,184
+2024-06-03,Conservative,Viral Incidents & Culture War,10
+2024-06-03,Liberal,Border Enforcement & Policy,14
+2024-06-03,Liberal,Crime & Security Narrative,9
+2024-06-03,Liberal,Economic & Social Impact,5
+2024-06-03,Liberal,Humanitarian & Asylum System,19
+2024-06-03,Liberal,Identity & Assimilation,10
+2024-06-03,Liberal,International Refugee Context,13
+2024-06-03,Liberal,Partisan Politics & Elections,60
+2024-06-03,Liberal,Unmapped,36
+2024-06-03,Liberal,Viral Incidents & Culture War,11
+2024-06-03,Moderate,Border Enforcement & Policy,57
+2024-06-03,Moderate,Crime & Security Narrative,12
+2024-06-03,Moderate,Economic & Social Impact,18
+2024-06-03,Moderate,Humanitarian & Asylum System,26
+2024-06-03,Moderate,Identity & Assimilation,22
+2024-06-03,Moderate,International Refugee Context,11
+2024-06-03,Moderate,Partisan Politics & Elections,156
+2024-06-03,Moderate,Unmapped,106
+2024-06-03,Moderate,Viral Incidents & Culture War,5
+2024-06-10,Conservative,Border Enforcement & Policy,35
+2024-06-10,Conservative,Crime & Security Narrative,65
+2024-06-10,Conservative,Economic & Social Impact,28
+2024-06-10,Conservative,Humanitarian & Asylum System,51
+2024-06-10,Conservative,Identity & Assimilation,21
+2024-06-10,Conservative,International Refugee Context,70
+2024-06-10,Conservative,Partisan Politics & Elections,109
+2024-06-10,Conservative,Unmapped,164
+2024-06-10,Conservative,Viral Incidents & Culture War,12
+2024-06-10,Liberal,Border Enforcement & Policy,25
+2024-06-10,Liberal,Crime & Security Narrative,7
+2024-06-10,Liberal,Economic & Social Impact,11
+2024-06-10,Liberal,Humanitarian & Asylum System,12
+2024-06-10,Liberal,Identity & Assimilation,21
+2024-06-10,Liberal,International Refugee Context,8
+2024-06-10,Liberal,Partisan Politics & Elections,75
+2024-06-10,Liberal,Unmapped,78
+2024-06-10,Liberal,Viral Incidents & Culture War,11
+2024-06-10,Moderate,Border Enforcement & Policy,15
+2024-06-10,Moderate,Crime & Security Narrative,21
+2024-06-10,Moderate,Economic & Social Impact,12
+2024-06-10,Moderate,Humanitarian & Asylum System,8
+2024-06-10,Moderate,Identity & Assimilation,10
+2024-06-10,Moderate,International Refugee Context,20
+2024-06-10,Moderate,Partisan Politics & Elections,46
+2024-06-10,Moderate,Unmapped,53
+2024-06-10,Moderate,Viral Incidents & Culture War,1
+2024-06-17,Conservative,Border Enforcement & Policy,62
+2024-06-17,Conservative,Crime & Security Narrative,154
+2024-06-17,Conservative,Economic & Social Impact,66
+2024-06-17,Conservative,Humanitarian & Asylum System,31
+2024-06-17,Conservative,Identity & Assimilation,38
+2024-06-17,Conservative,International Refugee Context,22
+2024-06-17,Conservative,Partisan Politics & Elections,207
+2024-06-17,Conservative,Unmapped,237
+2024-06-17,Conservative,Viral Incidents & Culture War,49
+2024-06-17,Liberal,Border Enforcement & Policy,15
+2024-06-17,Liberal,Crime & Security Narrative,10
+2024-06-17,Liberal,Economic & Social Impact,6
+2024-06-17,Liberal,Humanitarian & Asylum System,15
+2024-06-17,Liberal,Identity & Assimilation,18
+2024-06-17,Liberal,International Refugee Context,9
+2024-06-17,Liberal,Partisan Politics & Elections,100
+2024-06-17,Liberal,Unmapped,79
+2024-06-17,Liberal,Viral Incidents & Culture War,16
+2024-06-17,Moderate,Border Enforcement & Policy,27
+2024-06-17,Moderate,Crime & Security Narrative,36
+2024-06-17,Moderate,Economic & Social Impact,17
+2024-06-17,Moderate,Humanitarian & Asylum System,23
+2024-06-17,Moderate,Identity & Assimilation,39
+2024-06-17,Moderate,International Refugee Context,30
+2024-06-17,Moderate,Partisan Politics & Elections,136
+2024-06-17,Moderate,Unmapped,114
+2024-06-17,Moderate,Viral Incidents & Culture War,31
+2024-06-24,Conservative,Border Enforcement & Policy,32
+2024-06-24,Conservative,Crime & Security Narrative,121
+2024-06-24,Conservative,Economic & Social Impact,28
+2024-06-24,Conservative,Humanitarian & Asylum System,15
+2024-06-24,Conservative,Identity & Assimilation,24
+2024-06-24,Conservative,International Refugee Context,14
+2024-06-24,Conservative,Partisan Politics & Elections,110
+2024-06-24,Conservative,Unmapped,153
+2024-06-24,Conservative,Viral Incidents & Culture War,14
+2024-06-24,Liberal,Border Enforcement & Policy,23
+2024-06-24,Liberal,Crime & Security Narrative,35
+2024-06-24,Liberal,Economic & Social Impact,19
+2024-06-24,Liberal,Humanitarian & Asylum System,9
+2024-06-24,Liberal,Identity & Assimilation,10
+2024-06-24,Liberal,International Refugee Context,4
+2024-06-24,Liberal,Partisan Politics & Elections,65
+2024-06-24,Liberal,Unmapped,95
+2024-06-24,Liberal,Viral Incidents & Culture War,11
+2024-06-24,Moderate,Border Enforcement & Policy,13
+2024-06-24,Moderate,Crime & Security Narrative,27
+2024-06-24,Moderate,Economic & Social Impact,7
+2024-06-24,Moderate,Humanitarian & Asylum System,10
+2024-06-24,Moderate,Identity & Assimilation,12
+2024-06-24,Moderate,International Refugee Context,19
+2024-06-24,Moderate,Partisan Politics & Elections,61
+2024-06-24,Moderate,Unmapped,72
+2024-06-24,Moderate,Viral Incidents & Culture War,1
+2024-07-01,Conservative,Border Enforcement & Policy,25
+2024-07-01,Conservative,Crime & Security Narrative,19
+2024-07-01,Conservative,Economic & Social Impact,20
+2024-07-01,Conservative,Humanitarian & Asylum System,2
+2024-07-01,Conservative,Identity & Assimilation,9
+2024-07-01,Conservative,International Refugee Context,13
+2024-07-01,Conservative,Partisan Politics & Elections,37
+2024-07-01,Conservative,Unmapped,62
+2024-07-01,Conservative,Viral Incidents & Culture War,6
+2024-07-01,Liberal,Border Enforcement & Policy,1
+2024-07-01,Liberal,Crime & Security Narrative,1
+2024-07-01,Liberal,Economic & Social Impact,6
+2024-07-01,Liberal,Identity & Assimilation,6
+2024-07-01,Liberal,International Refugee Context,5
+2024-07-01,Liberal,Partisan Politics & Elections,18
+2024-07-01,Liberal,Unmapped,16
+2024-07-01,Liberal,Viral Incidents & Culture War,4
+2024-07-01,Moderate,Border Enforcement & Policy,2
+2024-07-01,Moderate,Crime & Security Narrative,6
+2024-07-01,Moderate,Economic & Social Impact,5
+2024-07-01,Moderate,Humanitarian & Asylum System,3
+2024-07-01,Moderate,Identity & Assimilation,9
+2024-07-01,Moderate,International Refugee Context,12
+2024-07-01,Moderate,Partisan Politics & Elections,24
+2024-07-01,Moderate,Unmapped,13
+2024-07-08,Conservative,Border Enforcement & Policy,28
+2024-07-08,Conservative,Crime & Security Narrative,43
+2024-07-08,Conservative,Economic & Social Impact,7
+2024-07-08,Conservative,Humanitarian & Asylum System,6
+2024-07-08,Conservative,Identity & Assimilation,8
+2024-07-08,Conservative,International Refugee Context,14
+2024-07-08,Conservative,Partisan Politics & Elections,126
+2024-07-08,Conservative,Unmapped,75
+2024-07-08,Conservative,Viral Incidents & Culture War,7
+2024-07-08,Liberal,Border Enforcement & Policy,4
+2024-07-08,Liberal,Crime & Security Narrative,2
+2024-07-08,Liberal,Economic & Social Impact,2
+2024-07-08,Liberal,Humanitarian & Asylum System,5
+2024-07-08,Liberal,Identity & Assimilation,11
+2024-07-08,Liberal,International Refugee Context,10
+2024-07-08,Liberal,Partisan Politics & Elections,19
+2024-07-08,Liberal,Unmapped,35
+2024-07-08,Liberal,Viral Incidents & Culture War,5
+2024-07-08,Moderate,Border Enforcement & Policy,3
+2024-07-08,Moderate,Crime & Security Narrative,11
+2024-07-08,Moderate,Economic & Social Impact,5
+2024-07-08,Moderate,Humanitarian & Asylum System,5
+2024-07-08,Moderate,Identity & Assimilation,12
+2024-07-08,Moderate,International Refugee Context,17
+2024-07-08,Moderate,Partisan Politics & Elections,22
+2024-07-08,Moderate,Unmapped,36
+2024-07-15,Conservative,Border Enforcement & Policy,18
+2024-07-15,Conservative,Crime & Security Narrative,16
+2024-07-15,Conservative,Economic & Social Impact,8
+2024-07-15,Conservative,Humanitarian & Asylum System,15
+2024-07-15,Conservative,Identity & Assimilation,16
+2024-07-15,Conservative,International Refugee Context,7
+2024-07-15,Conservative,Partisan Politics & Elections,44
+2024-07-15,Conservative,Unmapped,83
+2024-07-15,Conservative,Viral Incidents & Culture War,6
+2024-07-15,Liberal,Border Enforcement & Policy,10
+2024-07-15,Liberal,Crime & Security Narrative,13
+2024-07-15,Liberal,Economic & Social Impact,9
+2024-07-15,Liberal,Humanitarian & Asylum System,5
+2024-07-15,Liberal,Identity & Assimilation,12
+2024-07-15,Liberal,International Refugee Context,2
+2024-07-15,Liberal,Partisan Politics & Elections,28
+2024-07-15,Liberal,Unmapped,66
+2024-07-15,Liberal,Viral Incidents & Culture War,10
+2024-07-15,Moderate,Border Enforcement & Policy,12
+2024-07-15,Moderate,Crime & Security Narrative,8
+2024-07-15,Moderate,Economic & Social Impact,7
+2024-07-15,Moderate,Humanitarian & Asylum System,1
+2024-07-15,Moderate,Identity & Assimilation,11
+2024-07-15,Moderate,International Refugee Context,6
+2024-07-15,Moderate,Partisan Politics & Elections,43
+2024-07-15,Moderate,Unmapped,48
+2024-07-15,Moderate,Viral Incidents & Culture War,1
+2024-07-22,Conservative,Border Enforcement & Policy,32
+2024-07-22,Conservative,Crime & Security Narrative,32
+2024-07-22,Conservative,Economic & Social Impact,11
+2024-07-22,Conservative,Humanitarian & Asylum System,10
+2024-07-22,Conservative,Identity & Assimilation,18
+2024-07-22,Conservative,International Refugee Context,6
+2024-07-22,Conservative,Partisan Politics & Elections,135
+2024-07-22,Conservative,Unmapped,60
+2024-07-22,Conservative,Viral Incidents & Culture War,3
+2024-07-22,Liberal,Border Enforcement & Policy,3
+2024-07-22,Liberal,Crime & Security Narrative,2
+2024-07-22,Liberal,Economic & Social Impact,2
+2024-07-22,Liberal,Humanitarian & Asylum System,4
+2024-07-22,Liberal,Identity & Assimilation,5
+2024-07-22,Liberal,International Refugee Context,1
+2024-07-22,Liberal,Partisan Politics & Elections,52
+2024-07-22,Liberal,Unmapped,47
+2024-07-22,Liberal,Viral Incidents & Culture War,1
+2024-07-22,Moderate,Border Enforcement & Policy,4
+2024-07-22,Moderate,Crime & Security Narrative,3
+2024-07-22,Moderate,Economic & Social Impact,1
+2024-07-22,Moderate,Identity & Assimilation,11
+2024-07-22,Moderate,International Refugee Context,6
+2024-07-22,Moderate,Partisan Politics & Elections,76
+2024-07-22,Moderate,Unmapped,27
+2024-07-22,Moderate,Viral Incidents & Culture War,3
+2024-07-29,Conservative,Border Enforcement & Policy,25
+2024-07-29,Conservative,Crime & Security Narrative,40
+2024-07-29,Conservative,Economic & Social Impact,9
+2024-07-29,Conservative,Humanitarian & Asylum System,6
+2024-07-29,Conservative,Identity & Assimilation,11
+2024-07-29,Conservative,International Refugee Context,13
+2024-07-29,Conservative,Partisan Politics & Elections,102
+2024-07-29,Conservative,Unmapped,117
+2024-07-29,Conservative,Viral Incidents & Culture War,6
+2024-07-29,Liberal,Border Enforcement & Policy,8
+2024-07-29,Liberal,Crime & Security Narrative,9
+2024-07-29,Liberal,Economic & Social Impact,5
+2024-07-29,Liberal,Humanitarian & Asylum System,11
+2024-07-29,Liberal,Identity & Assimilation,13
+2024-07-29,Liberal,International Refugee Context,6
+2024-07-29,Liberal,Partisan Politics & Elections,60
+2024-07-29,Liberal,Unmapped,53
+2024-07-29,Liberal,Viral Incidents & Culture War,3
+2024-07-29,Moderate,Border Enforcement & Policy,6
+2024-07-29,Moderate,Crime & Security Narrative,9
+2024-07-29,Moderate,Economic & Social Impact,12
+2024-07-29,Moderate,Humanitarian & Asylum System,5
+2024-07-29,Moderate,Identity & Assimilation,14
+2024-07-29,Moderate,International Refugee Context,13
+2024-07-29,Moderate,Partisan Politics & Elections,41
+2024-07-29,Moderate,Unmapped,40
+2024-07-29,Moderate,Viral Incidents & Culture War,4
+2024-08-05,Conservative,Border Enforcement & Policy,24
+2024-08-05,Conservative,Crime & Security Narrative,52
+2024-08-05,Conservative,Economic & Social Impact,16
+2024-08-05,Conservative,Humanitarian & Asylum System,34
+2024-08-05,Conservative,Identity & Assimilation,24
+2024-08-05,Conservative,International Refugee Context,36
+2024-08-05,Conservative,Partisan Politics & Elections,93
+2024-08-05,Conservative,Unmapped,137
+2024-08-05,Conservative,Viral Incidents & Culture War,7
+2024-08-05,Liberal,Border Enforcement & Policy,7
+2024-08-05,Liberal,Crime & Security Narrative,13
+2024-08-05,Liberal,Economic & Social Impact,9
+2024-08-05,Liberal,Humanitarian & Asylum System,8
+2024-08-05,Liberal,Identity & Assimilation,9
+2024-08-05,Liberal,International Refugee Context,9
+2024-08-05,Liberal,Partisan Politics & Elections,38
+2024-08-05,Liberal,Unmapped,49
+2024-08-05,Moderate,Border Enforcement & Policy,10
+2024-08-05,Moderate,Crime & Security Narrative,21
+2024-08-05,Moderate,Economic & Social Impact,12
+2024-08-05,Moderate,Humanitarian & Asylum System,13
+2024-08-05,Moderate,Identity & Assimilation,9
+2024-08-05,Moderate,International Refugee Context,43
+2024-08-05,Moderate,Partisan Politics & Elections,33
+2024-08-05,Moderate,Unmapped,56
+2024-08-05,Moderate,Viral Incidents & Culture War,3
+2024-08-12,Conservative,Border Enforcement & Policy,32
+2024-08-12,Conservative,Crime & Security Narrative,81
+2024-08-12,Conservative,Economic & Social Impact,41
+2024-08-12,Conservative,Humanitarian & Asylum System,30
+2024-08-12,Conservative,Identity & Assimilation,35
+2024-08-12,Conservative,International Refugee Context,25
+2024-08-12,Conservative,Partisan Politics & Elections,144
+2024-08-12,Conservative,Unmapped,152
+2024-08-12,Conservative,Viral Incidents & Culture War,6
+2024-08-12,Liberal,Border Enforcement & Policy,11
+2024-08-12,Liberal,Crime & Security Narrative,8
+2024-08-12,Liberal,Economic & Social Impact,12
+2024-08-12,Liberal,Humanitarian & Asylum System,5
+2024-08-12,Liberal,Identity & Assimilation,13
+2024-08-12,Liberal,International Refugee Context,4
+2024-08-12,Liberal,Partisan Politics & Elections,42
+2024-08-12,Liberal,Unmapped,56
+2024-08-12,Liberal,Viral Incidents & Culture War,2
+2024-08-12,Moderate,Border Enforcement & Policy,18
+2024-08-12,Moderate,Crime & Security Narrative,18
+2024-08-12,Moderate,Economic & Social Impact,7
+2024-08-12,Moderate,Humanitarian & Asylum System,13
+2024-08-12,Moderate,Identity & Assimilation,40
+2024-08-12,Moderate,International Refugee Context,27
+2024-08-12,Moderate,Partisan Politics & Elections,80
+2024-08-12,Moderate,Unmapped,89
+2024-08-12,Moderate,Viral Incidents & Culture War,5
+2024-08-19,Conservative,Border Enforcement & Policy,24
+2024-08-19,Conservative,Crime & Security Narrative,32
+2024-08-19,Conservative,Economic & Social Impact,45
+2024-08-19,Conservative,Humanitarian & Asylum System,22
+2024-08-19,Conservative,Identity & Assimilation,23
+2024-08-19,Conservative,International Refugee Context,9
+2024-08-19,Conservative,Partisan Politics & Elections,135
+2024-08-19,Conservative,Unmapped,141
+2024-08-19,Conservative,Viral Incidents & Culture War,14
+2024-08-19,Liberal,Border Enforcement & Policy,13
+2024-08-19,Liberal,Crime & Security Narrative,11
+2024-08-19,Liberal,Economic & Social Impact,7
+2024-08-19,Liberal,Humanitarian & Asylum System,6
+2024-08-19,Liberal,Identity & Assimilation,20
+2024-08-19,Liberal,International Refugee Context,4
+2024-08-19,Liberal,Partisan Politics & Elections,58
+2024-08-19,Liberal,Unmapped,56
+2024-08-19,Liberal,Viral Incidents & Culture War,8
+2024-08-19,Moderate,Border Enforcement & Policy,17
+2024-08-19,Moderate,Crime & Security Narrative,10
+2024-08-19,Moderate,Economic & Social Impact,6
+2024-08-19,Moderate,Humanitarian & Asylum System,5
+2024-08-19,Moderate,Identity & Assimilation,17
+2024-08-19,Moderate,International Refugee Context,8
+2024-08-19,Moderate,Partisan Politics & Elections,85
+2024-08-19,Moderate,Unmapped,40
+2024-08-19,Moderate,Viral Incidents & Culture War,1
+2024-08-26,Conservative,Border Enforcement & Policy,22
+2024-08-26,Conservative,Crime & Security Narrative,73
+2024-08-26,Conservative,Economic & Social Impact,40
+2024-08-26,Conservative,Humanitarian & Asylum System,34
+2024-08-26,Conservative,Identity & Assimilation,17
+2024-08-26,Conservative,International Refugee Context,14
+2024-08-26,Conservative,Partisan Politics & Elections,137
+2024-08-26,Conservative,Unmapped,129
+2024-08-26,Conservative,Viral Incidents & Culture War,10
+2024-08-26,Liberal,Border Enforcement & Policy,6
+2024-08-26,Liberal,Crime & Security Narrative,1
+2024-08-26,Liberal,Economic & Social Impact,5
+2024-08-26,Liberal,Humanitarian & Asylum System,1
+2024-08-26,Liberal,Identity & Assimilation,6
+2024-08-26,Liberal,International Refugee Context,3
+2024-08-26,Liberal,Partisan Politics & Elections,28
+2024-08-26,Liberal,Unmapped,20
+2024-08-26,Moderate,Border Enforcement & Policy,6
+2024-08-26,Moderate,Crime & Security Narrative,5
+2024-08-26,Moderate,Economic & Social Impact,10
+2024-08-26,Moderate,Humanitarian & Asylum System,9
+2024-08-26,Moderate,Identity & Assimilation,10
+2024-08-26,Moderate,International Refugee Context,4
+2024-08-26,Moderate,Partisan Politics & Elections,51
+2024-08-26,Moderate,Unmapped,55
+2024-09-02,Conservative,Border Enforcement & Policy,41
+2024-09-02,Conservative,Crime & Security Narrative,79
+2024-09-02,Conservative,Economic & Social Impact,44
+2024-09-02,Conservative,Humanitarian & Asylum System,19
+2024-09-02,Conservative,Identity & Assimilation,31
+2024-09-02,Conservative,International Refugee Context,9
+2024-09-02,Conservative,Partisan Politics & Elections,154
+2024-09-02,Conservative,Unmapped,141
+2024-09-02,Conservative,Viral Incidents & Culture War,13
+2024-09-02,Liberal,Border Enforcement & Policy,6
+2024-09-02,Liberal,Crime & Security Narrative,11
+2024-09-02,Liberal,Economic & Social Impact,2
+2024-09-02,Liberal,Humanitarian & Asylum System,4
+2024-09-02,Liberal,Identity & Assimilation,9
+2024-09-02,Liberal,International Refugee Context,7
+2024-09-02,Liberal,Partisan Politics & Elections,38
+2024-09-02,Liberal,Unmapped,42
+2024-09-02,Liberal,Viral Incidents & Culture War,6
+2024-09-02,Moderate,Border Enforcement & Policy,7
+2024-09-02,Moderate,Crime & Security Narrative,19
+2024-09-02,Moderate,Economic & Social Impact,7
+2024-09-02,Moderate,Humanitarian & Asylum System,6
+2024-09-02,Moderate,Identity & Assimilation,13
+2024-09-02,Moderate,International Refugee Context,16
+2024-09-02,Moderate,Partisan Politics & Elections,39
+2024-09-02,Moderate,Unmapped,46
+2024-09-02,Moderate,Viral Incidents & Culture War,16
+2024-09-09,Conservative,Border Enforcement & Policy,42
+2024-09-09,Conservative,Crime & Security Narrative,87
+2024-09-09,Conservative,Economic & Social Impact,39
+2024-09-09,Conservative,Humanitarian & Asylum System,37
+2024-09-09,Conservative,Identity & Assimilation,67
+2024-09-09,Conservative,International Refugee Context,24
+2024-09-09,Conservative,Partisan Politics & Elections,250
+2024-09-09,Conservative,Unmapped,309
+2024-09-09,Conservative,Viral Incidents & Culture War,310
+2024-09-09,Liberal,Border Enforcement & Policy,22
+2024-09-09,Liberal,Crime & Security Narrative,21
+2024-09-09,Liberal,Economic & Social Impact,10
+2024-09-09,Liberal,Humanitarian & Asylum System,7
+2024-09-09,Liberal,Identity & Assimilation,33
+2024-09-09,Liberal,International Refugee Context,5
+2024-09-09,Liberal,Partisan Politics & Elections,125
+2024-09-09,Liberal,Unmapped,112
+2024-09-09,Liberal,Viral Incidents & Culture War,189
+2024-09-09,Moderate,Border Enforcement & Policy,6
+2024-09-09,Moderate,Crime & Security Narrative,15
+2024-09-09,Moderate,Economic & Social Impact,7
+2024-09-09,Moderate,Humanitarian & Asylum System,2
+2024-09-09,Moderate,Identity & Assimilation,8
+2024-09-09,Moderate,International Refugee Context,8
+2024-09-09,Moderate,Partisan Politics & Elections,120
+2024-09-09,Moderate,Unmapped,57
+2024-09-09,Moderate,Viral Incidents & Culture War,111
+2024-09-16,Conservative,Border Enforcement & Policy,38
+2024-09-16,Conservative,Crime & Security Narrative,72
+2024-09-16,Conservative,Economic & Social Impact,23
+2024-09-16,Conservative,Humanitarian & Asylum System,10
+2024-09-16,Conservative,Identity & Assimilation,19
+2024-09-16,Conservative,International Refugee Context,20
+2024-09-16,Conservative,Partisan Politics & Elections,109
+2024-09-16,Conservative,Unmapped,154
+2024-09-16,Conservative,Viral Incidents & Culture War,120
+2024-09-16,Liberal,Border Enforcement & Policy,17
+2024-09-16,Liberal,Crime & Security Narrative,14
+2024-09-16,Liberal,Economic & Social Impact,11
+2024-09-16,Liberal,Humanitarian & Asylum System,7
+2024-09-16,Liberal,Identity & Assimilation,35
+2024-09-16,Liberal,International Refugee Context,6
+2024-09-16,Liberal,Partisan Politics & Elections,75
+2024-09-16,Liberal,Unmapped,151
+2024-09-16,Liberal,Viral Incidents & Culture War,187
+2024-09-16,Moderate,Border Enforcement & Policy,12
+2024-09-16,Moderate,Crime & Security Narrative,17
+2024-09-16,Moderate,Economic & Social Impact,23
+2024-09-16,Moderate,Humanitarian & Asylum System,9
+2024-09-16,Moderate,Identity & Assimilation,36
+2024-09-16,Moderate,International Refugee Context,17
+2024-09-16,Moderate,Partisan Politics & Elections,79
+2024-09-16,Moderate,Unmapped,110
+2024-09-16,Moderate,Viral Incidents & Culture War,86
+2024-09-23,Conservative,Border Enforcement & Policy,39
+2024-09-23,Conservative,Crime & Security Narrative,43
+2024-09-23,Conservative,Economic & Social Impact,23
+2024-09-23,Conservative,Humanitarian & Asylum System,26
+2024-09-23,Conservative,Identity & Assimilation,37
+2024-09-23,Conservative,International Refugee Context,7
+2024-09-23,Conservative,Partisan Politics & Elections,162
+2024-09-23,Conservative,Unmapped,193
+2024-09-23,Conservative,Viral Incidents & Culture War,59
+2024-09-23,Liberal,Border Enforcement & Policy,12
+2024-09-23,Liberal,Crime & Security Narrative,12
+2024-09-23,Liberal,Economic & Social Impact,16
+2024-09-23,Liberal,Humanitarian & Asylum System,13
+2024-09-23,Liberal,Identity & Assimilation,32
+2024-09-23,Liberal,International Refugee Context,5
+2024-09-23,Liberal,Partisan Politics & Elections,93
+2024-09-23,Liberal,Unmapped,97
+2024-09-23,Liberal,Viral Incidents & Culture War,58
+2024-09-23,Moderate,Border Enforcement & Policy,7
+2024-09-23,Moderate,Crime & Security Narrative,9
+2024-09-23,Moderate,Economic & Social Impact,8
+2024-09-23,Moderate,Humanitarian & Asylum System,2
+2024-09-23,Moderate,Identity & Assimilation,14
+2024-09-23,Moderate,International Refugee Context,19
+2024-09-23,Moderate,Partisan Politics & Elections,57
+2024-09-23,Moderate,Unmapped,38
+2024-09-23,Moderate,Viral Incidents & Culture War,16
+2024-09-30,Conservative,Border Enforcement & Policy,34
+2024-09-30,Conservative,Crime & Security Narrative,59
+2024-09-30,Conservative,Economic & Social Impact,85
+2024-09-30,Conservative,Humanitarian & Asylum System,37
+2024-09-30,Conservative,Identity & Assimilation,28
+2024-09-30,Conservative,International Refugee Context,14
+2024-09-30,Conservative,Partisan Politics & Elections,123
+2024-09-30,Conservative,Unmapped,185
+2024-09-30,Conservative,Viral Incidents & Culture War,91
+2024-09-30,Liberal,Border Enforcement & Policy,24
+2024-09-30,Liberal,Crime & Security Narrative,12
+2024-09-30,Liberal,Economic & Social Impact,18
+2024-09-30,Liberal,Humanitarian & Asylum System,14
+2024-09-30,Liberal,Identity & Assimilation,30
+2024-09-30,Liberal,International Refugee Context,3
+2024-09-30,Liberal,Partisan Politics & Elections,79
+2024-09-30,Liberal,Unmapped,138
+2024-09-30,Liberal,Viral Incidents & Culture War,88
+2024-09-30,Moderate,Border Enforcement & Policy,14
+2024-09-30,Moderate,Crime & Security Narrative,3
+2024-09-30,Moderate,Economic & Social Impact,21
+2024-09-30,Moderate,Humanitarian & Asylum System,5
+2024-09-30,Moderate,Identity & Assimilation,6
+2024-09-30,Moderate,International Refugee Context,7
+2024-09-30,Moderate,Partisan Politics & Elections,76
+2024-09-30,Moderate,Unmapped,79
+2024-09-30,Moderate,Viral Incidents & Culture War,30
+2024-10-07,Conservative,Border Enforcement & Policy,30
+2024-10-07,Conservative,Crime & Security Narrative,38
+2024-10-07,Conservative,Economic & Social Impact,28
+2024-10-07,Conservative,Humanitarian & Asylum System,18
+2024-10-07,Conservative,Identity & Assimilation,39
+2024-10-07,Conservative,International Refugee Context,29
+2024-10-07,Conservative,Partisan Politics & Elections,85
+2024-10-07,Conservative,Unmapped,124
+2024-10-07,Conservative,Viral Incidents & Culture War,113
+2024-10-07,Liberal,Border Enforcement & Policy,14
+2024-10-07,Liberal,Crime & Security Narrative,27
+2024-10-07,Liberal,Economic & Social Impact,16
+2024-10-07,Liberal,Humanitarian & Asylum System,12
+2024-10-07,Liberal,Identity & Assimilation,24
+2024-10-07,Liberal,International Refugee Context,8
+2024-10-07,Liberal,Partisan Politics & Elections,64
+2024-10-07,Liberal,Unmapped,104
+2024-10-07,Liberal,Viral Incidents & Culture War,88
+2024-10-07,Moderate,Border Enforcement & Policy,18
+2024-10-07,Moderate,Crime & Security Narrative,16
+2024-10-07,Moderate,Economic & Social Impact,4
+2024-10-07,Moderate,Humanitarian & Asylum System,5
+2024-10-07,Moderate,Identity & Assimilation,15
+2024-10-07,Moderate,International Refugee Context,9
+2024-10-07,Moderate,Partisan Politics & Elections,62
+2024-10-07,Moderate,Unmapped,57
+2024-10-07,Moderate,Viral Incidents & Culture War,22
+2024-10-14,Conservative,Border Enforcement & Policy,63
+2024-10-14,Conservative,Crime & Security Narrative,111
+2024-10-14,Conservative,Economic & Social Impact,38
+2024-10-14,Conservative,Humanitarian & Asylum System,45
+2024-10-14,Conservative,Identity & Assimilation,54
+2024-10-14,Conservative,International Refugee Context,35
+2024-10-14,Conservative,Partisan Politics & Elections,218
+2024-10-14,Conservative,Unmapped,359
+2024-10-14,Conservative,Viral Incidents & Culture War,33
+2024-10-14,Liberal,Border Enforcement & Policy,34
+2024-10-14,Liberal,Crime & Security Narrative,24
+2024-10-14,Liberal,Economic & Social Impact,14
+2024-10-14,Liberal,Humanitarian & Asylum System,17
+2024-10-14,Liberal,Identity & Assimilation,23
+2024-10-14,Liberal,International Refugee Context,9
+2024-10-14,Liberal,Partisan Politics & Elections,95
+2024-10-14,Liberal,Unmapped,87
+2024-10-14,Liberal,Viral Incidents & Culture War,50
+2024-10-14,Moderate,Border Enforcement & Policy,8
+2024-10-14,Moderate,Crime & Security Narrative,9
+2024-10-14,Moderate,Economic & Social Impact,6
+2024-10-14,Moderate,Humanitarian & Asylum System,6
+2024-10-14,Moderate,Identity & Assimilation,12
+2024-10-14,Moderate,International Refugee Context,16
+2024-10-14,Moderate,Partisan Politics & Elections,75
+2024-10-14,Moderate,Unmapped,51
+2024-10-14,Moderate,Viral Incidents & Culture War,26
+2024-10-21,Conservative,Border Enforcement & Policy,37
+2024-10-21,Conservative,Crime & Security Narrative,21
+2024-10-21,Conservative,Economic & Social Impact,36
+2024-10-21,Conservative,Humanitarian & Asylum System,21
+2024-10-21,Conservative,Identity & Assimilation,34
+2024-10-21,Conservative,International Refugee Context,15
+2024-10-21,Conservative,Partisan Politics & Elections,135
+2024-10-21,Conservative,Unmapped,168
+2024-10-21,Conservative,Viral Incidents & Culture War,18
+2024-10-21,Liberal,Border Enforcement & Policy,23
+2024-10-21,Liberal,Crime & Security Narrative,12
+2024-10-21,Liberal,Economic & Social Impact,10
+2024-10-21,Liberal,Humanitarian & Asylum System,14
+2024-10-21,Liberal,Identity & Assimilation,15
+2024-10-21,Liberal,International Refugee Context,10
+2024-10-21,Liberal,Partisan Politics & Elections,66
+2024-10-21,Liberal,Unmapped,65
+2024-10-21,Liberal,Viral Incidents & Culture War,37
+2024-10-21,Moderate,Border Enforcement & Policy,15
+2024-10-21,Moderate,Crime & Security Narrative,13
+2024-10-21,Moderate,Economic & Social Impact,7
+2024-10-21,Moderate,Humanitarian & Asylum System,5
+2024-10-21,Moderate,Identity & Assimilation,12
+2024-10-21,Moderate,International Refugee Context,15
+2024-10-21,Moderate,Partisan Politics & Elections,53
+2024-10-21,Moderate,Unmapped,36
+2024-10-21,Moderate,Viral Incidents & Culture War,13
+2024-10-28,Conservative,Border Enforcement & Policy,40
+2024-10-28,Conservative,Crime & Security Narrative,54
+2024-10-28,Conservative,Economic & Social Impact,8
+2024-10-28,Conservative,Humanitarian & Asylum System,22
+2024-10-28,Conservative,Identity & Assimilation,21
+2024-10-28,Conservative,International Refugee Context,31
+2024-10-28,Conservative,Partisan Politics & Elections,109
+2024-10-28,Conservative,Unmapped,158
+2024-10-28,Conservative,Viral Incidents & Culture War,11
+2024-10-28,Liberal,Border Enforcement & Policy,35
+2024-10-28,Liberal,Crime & Security Narrative,14
+2024-10-28,Liberal,Economic & Social Impact,7
+2024-10-28,Liberal,Humanitarian & Asylum System,18
+2024-10-28,Liberal,Identity & Assimilation,21
+2024-10-28,Liberal,International Refugee Context,11
+2024-10-28,Liberal,Partisan Politics & Elections,87
+2024-10-28,Liberal,Unmapped,110
+2024-10-28,Liberal,Viral Incidents & Culture War,14
+2024-10-28,Moderate,Border Enforcement & Policy,10
+2024-10-28,Moderate,Crime & Security Narrative,3
+2024-10-28,Moderate,Economic & Social Impact,9
+2024-10-28,Moderate,Humanitarian & Asylum System,5
+2024-10-28,Moderate,Identity & Assimilation,12
+2024-10-28,Moderate,International Refugee Context,8
+2024-10-28,Moderate,Partisan Politics & Elections,67
+2024-10-28,Moderate,Unmapped,55
+2024-10-28,Moderate,Viral Incidents & Culture War,7
+2024-11-04,Conservative,Border Enforcement & Policy,35
+2024-11-04,Conservative,Crime & Security Narrative,38
+2024-11-04,Conservative,Economic & Social Impact,13
+2024-11-04,Conservative,Humanitarian & Asylum System,18
+2024-11-04,Conservative,Identity & Assimilation,36
+2024-11-04,Conservative,International Refugee Context,6
+2024-11-04,Conservative,Partisan Politics & Elections,122
+2024-11-04,Conservative,Unmapped,151
+2024-11-04,Conservative,Viral Incidents & Culture War,15
+2024-11-04,Liberal,Border Enforcement & Policy,32
+2024-11-04,Liberal,Crime & Security Narrative,11
+2024-11-04,Liberal,Economic & Social Impact,23
+2024-11-04,Liberal,Humanitarian & Asylum System,10
+2024-11-04,Liberal,Identity & Assimilation,27
+2024-11-04,Liberal,International Refugee Context,2
+2024-11-04,Liberal,Partisan Politics & Elections,98
+2024-11-04,Liberal,Unmapped,108
+2024-11-04,Liberal,Viral Incidents & Culture War,15
+2024-11-04,Moderate,Border Enforcement & Policy,25
+2024-11-04,Moderate,Crime & Security Narrative,7
+2024-11-04,Moderate,Economic & Social Impact,6
+2024-11-04,Moderate,Humanitarian & Asylum System,9
+2024-11-04,Moderate,Identity & Assimilation,17
+2024-11-04,Moderate,International Refugee Context,8
+2024-11-04,Moderate,Partisan Politics & Elections,86
+2024-11-04,Moderate,Unmapped,69
+2024-11-04,Moderate,Viral Incidents & Culture War,4
